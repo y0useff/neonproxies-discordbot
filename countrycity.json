@@ -1,0 +1,6610 @@
+[
+  {
+    "country": "AE",
+    "city": "dubai"
+  },
+  {
+    "country": "AE",
+    "city": "abu_dhabi"
+  },
+  {
+    "country": "AE",
+    "city": "sharjah"
+  },
+  {
+    "country": "AE",
+    "city": "err"
+  },
+  {
+    "country": "AE",
+    "city": "al_ain_city"
+  },
+  {
+    "country": "AE",
+    "city": "ajman"
+  },
+  {
+    "country": "AE",
+    "city": "ras_al_khaimah"
+  },
+  {
+    "country": "AL",
+    "city": "tirana"
+  },
+  {
+    "country": "AL",
+    "city": "err"
+  },
+  {
+    "country": "AL",
+    "city": "durrës"
+  },
+  {
+    "country": "AL",
+    "city": "elbasan"
+  },
+  {
+    "country": "AM",
+    "city": "yerevan"
+  },
+  {
+    "country": "AM",
+    "city": "err"
+  },
+  {
+    "country": "AO",
+    "city": "luanda"
+  },
+  {
+    "country": "AO",
+    "city": "err"
+  },
+  {
+    "country": "AR",
+    "city": "buenos_aires"
+  },
+  {
+    "country": "AR",
+    "city": "córdoba"
+  },
+  {
+    "country": "AR",
+    "city": "rosario"
+  },
+  {
+    "country": "AR",
+    "city": "err"
+  },
+  {
+    "country": "AR",
+    "city": "san_miguel_de_tucumán"
+  },
+  {
+    "country": "AR",
+    "city": "mendoza"
+  },
+  {
+    "country": "AR",
+    "city": "salta"
+  },
+  {
+    "country": "AR",
+    "city": "la_plata"
+  },
+  {
+    "country": "AR",
+    "city": "santa_fe"
+  },
+  {
+    "country": "AR",
+    "city": "mar_del_plata"
+  },
+  {
+    "country": "AR",
+    "city": "posadas"
+  },
+  {
+    "country": "AR",
+    "city": "resistencia"
+  },
+  {
+    "country": "AR",
+    "city": "san_salvador_de_jujuy"
+  },
+  {
+    "country": "AR",
+    "city": "benavidez"
+  },
+  {
+    "country": "AR",
+    "city": "corrientes"
+  },
+  {
+    "country": "AR",
+    "city": "quilmes"
+  },
+  {
+    "country": "AR",
+    "city": "lanus"
+  },
+  {
+    "country": "AR",
+    "city": "lomas_de_zamora"
+  },
+  {
+    "country": "AR",
+    "city": "berazategui"
+  },
+  {
+    "country": "AR",
+    "city": "la_rioja"
+  },
+  {
+    "country": "AR",
+    "city": "florencio_varela"
+  },
+  {
+    "country": "AR",
+    "city": "mariano_moreno"
+  },
+  {
+    "country": "AR",
+    "city": "monte_grande"
+  },
+  {
+    "country": "AR",
+    "city": "jose_c_paz"
+  },
+  {
+    "country": "AR",
+    "city": "merlo"
+  },
+  {
+    "country": "AR",
+    "city": "neuquén"
+  },
+  {
+    "country": "AR",
+    "city": "paraná"
+  },
+  {
+    "country": "AR",
+    "city": "san_juan"
+  },
+  {
+    "country": "AR",
+    "city": "isidro_casanova"
+  },
+  {
+    "country": "AR",
+    "city": "san_miguel"
+  },
+  {
+    "country": "AR",
+    "city": "laferrere"
+  },
+  {
+    "country": "AR",
+    "city": "santiago_del_estero"
+  },
+  {
+    "country": "AR",
+    "city": "pilar"
+  },
+  {
+    "country": "AR",
+    "city": "ramos_mejia"
+  },
+  {
+    "country": "AR",
+    "city": "bahía_blanca"
+  },
+  {
+    "country": "AR",
+    "city": "hurlingham"
+  },
+  {
+    "country": "AR",
+    "city": "avellaneda"
+  },
+  {
+    "country": "AR",
+    "city": "formosa"
+  },
+  {
+    "country": "AR",
+    "city": "san_justo"
+  },
+  {
+    "country": "AR",
+    "city": "libertad"
+  },
+  {
+    "country": "AR",
+    "city": "villa_ballester"
+  },
+  {
+    "country": "AR",
+    "city": "san_luis"
+  },
+  {
+    "country": "AR",
+    "city": "rio_grande"
+  },
+  {
+    "country": "AR",
+    "city": "bariloche"
+  },
+  {
+    "country": "AR",
+    "city": "caseros"
+  },
+  {
+    "country": "AR",
+    "city": "san_fernando"
+  },
+  {
+    "country": "AR",
+    "city": "los_polvorines"
+  },
+  {
+    "country": "AR",
+    "city": "banfield"
+  },
+  {
+    "country": "AR",
+    "city": "comodoro_rivadavia"
+  },
+  {
+    "country": "AR",
+    "city": "ituzaingo"
+  },
+  {
+    "country": "AR",
+    "city": "rafaela"
+  },
+  {
+    "country": "AR",
+    "city": "río_cuarto"
+  },
+  {
+    "country": "AR",
+    "city": "moron"
+  },
+  {
+    "country": "AR",
+    "city": "san_rafael"
+  },
+  {
+    "country": "AR",
+    "city": "concordia"
+  },
+  {
+    "country": "AR",
+    "city": "jose_maria_ezeiza"
+  },
+  {
+    "country": "AR",
+    "city": "santa_rosa"
+  },
+  {
+    "country": "AR",
+    "city": "concepcion"
+  },
+  {
+    "country": "AR",
+    "city": "general_san_martin"
+  },
+  {
+    "country": "AR",
+    "city": "presidencia_roque_sáenz_peña"
+  },
+  {
+    "country": "AR",
+    "city": "junín"
+  },
+  {
+    "country": "AR",
+    "city": "grand_bourg"
+  },
+  {
+    "country": "AR",
+    "city": "general_pacheco"
+  },
+  {
+    "country": "AR",
+    "city": "godoy_cruz"
+  },
+  {
+    "country": "AR",
+    "city": "longchamps"
+  },
+  {
+    "country": "AR",
+    "city": "adrogue"
+  },
+  {
+    "country": "AR",
+    "city": "villa_mercedes"
+  },
+  {
+    "country": "AR",
+    "city": "tandil"
+  },
+  {
+    "country": "AR",
+    "city": "rafael_calzada"
+  },
+  {
+    "country": "AR",
+    "city": "punta_alta"
+  },
+  {
+    "country": "AR",
+    "city": "zárate"
+  },
+  {
+    "country": "AR",
+    "city": "castelar"
+  },
+  {
+    "country": "AR",
+    "city": "burzaco"
+  },
+  {
+    "country": "AR",
+    "city": "san_francisco_solano"
+  },
+  {
+    "country": "AR",
+    "city": "puerto_eldorado"
+  },
+  {
+    "country": "AR",
+    "city": "venado_tuerto"
+  },
+  {
+    "country": "AR",
+    "city": "villa_maría"
+  },
+  {
+    "country": "AR",
+    "city": "jose_leon_suarez"
+  },
+  {
+    "country": "AR",
+    "city": "san_nicolás_de_los_arroyos"
+  },
+  {
+    "country": "AR",
+    "city": "campana"
+  },
+  {
+    "country": "AR",
+    "city": "la_banda"
+  },
+  {
+    "country": "AR",
+    "city": "mariano_acosta"
+  },
+  {
+    "country": "AR",
+    "city": "temperley"
+  },
+  {
+    "country": "AR",
+    "city": "río_gallegos"
+  },
+  {
+    "country": "AR",
+    "city": "ciudad_evita"
+  },
+  {
+    "country": "AR",
+    "city": "villa_carlos_paz"
+  },
+  {
+    "country": "AR",
+    "city": "boulogne"
+  },
+  {
+    "country": "AR",
+    "city": "lomas_del_mirador"
+  },
+  {
+    "country": "AR",
+    "city": "santo_tome"
+  },
+  {
+    "country": "AR",
+    "city": "ciudadela"
+  },
+  {
+    "country": "AR",
+    "city": "martinez"
+  },
+  {
+    "country": "AR",
+    "city": "guernica"
+  },
+  {
+    "country": "AR",
+    "city": "gonzalez_catan"
+  },
+  {
+    "country": "AR",
+    "city": "wilde"
+  },
+  {
+    "country": "AR",
+    "city": "reconquista"
+  },
+  {
+    "country": "AR",
+    "city": "ushuaia"
+  },
+  {
+    "country": "AR",
+    "city": "el_talar"
+  },
+  {
+    "country": "AR",
+    "city": "trelew"
+  },
+  {
+    "country": "AR",
+    "city": "alta_gracia"
+  },
+  {
+    "country": "AR",
+    "city": "palpala"
+  },
+  {
+    "country": "AR",
+    "city": "tres_arroyos"
+  },
+  {
+    "country": "AR",
+    "city": "mercedes"
+  },
+  {
+    "country": "AR",
+    "city": "del_viso"
+  },
+  {
+    "country": "AR",
+    "city": "haedo"
+  },
+  {
+    "country": "AR",
+    "city": "glew"
+  },
+  {
+    "country": "AR",
+    "city": "general_pico"
+  },
+  {
+    "country": "AR",
+    "city": "maipu"
+  },
+  {
+    "country": "AR",
+    "city": "lujan_de_cuyo"
+  },
+  {
+    "country": "AR",
+    "city": "munro"
+  },
+  {
+    "country": "AR",
+    "city": "olavarría"
+  },
+  {
+    "country": "AR",
+    "city": "don_torcuato"
+  },
+  {
+    "country": "AR",
+    "city": "general_roca"
+  },
+  {
+    "country": "AR",
+    "city": "belen_de_escobar"
+  },
+  {
+    "country": "AR",
+    "city": "general_rodriguez"
+  },
+  {
+    "country": "AR",
+    "city": "luján"
+  },
+  {
+    "country": "AR",
+    "city": "san_francisco"
+  },
+  {
+    "country": "AR",
+    "city": "obera"
+  },
+  {
+    "country": "AR",
+    "city": "berisso"
+  },
+  {
+    "country": "AR",
+    "city": "tortuguitas"
+  },
+  {
+    "country": "AR",
+    "city": "olivos"
+  },
+  {
+    "country": "AT",
+    "city": "vienna"
+  },
+  {
+    "country": "AT",
+    "city": "graz"
+  },
+  {
+    "country": "AU",
+    "city": "sydney"
+  },
+  {
+    "country": "AU",
+    "city": "melbourne"
+  },
+  {
+    "country": "AU",
+    "city": "brisbane"
+  },
+  {
+    "country": "AZ",
+    "city": "baku"
+  },
+  {
+    "country": "AZ",
+    "city": "err"
+  },
+  {
+    "country": "AZ",
+    "city": "sumqayit"
+  },
+  {
+    "country": "BA",
+    "city": "sarajevo"
+  },
+  {
+    "country": "BA",
+    "city": "tuzla"
+  },
+  {
+    "country": "BA",
+    "city": "banja_luka"
+  },
+  {
+    "country": "BA",
+    "city": "err"
+  },
+  {
+    "country": "BA",
+    "city": "mostar"
+  },
+  {
+    "country": "BA",
+    "city": "zenica"
+  },
+  {
+    "country": "BA",
+    "city": "bihać"
+  },
+  {
+    "country": "BA",
+    "city": "travnik"
+  },
+  {
+    "country": "BA",
+    "city": "gradacac"
+  },
+  {
+    "country": "BA",
+    "city": "prijedor"
+  },
+  {
+    "country": "BA",
+    "city": "bijeljina"
+  },
+  {
+    "country": "BB",
+    "city": "bridgetown"
+  },
+  {
+    "country": "BD",
+    "city": "dhaka"
+  },
+  {
+    "country": "BD",
+    "city": "chittagong"
+  },
+  {
+    "country": "BD",
+    "city": "narayanganj"
+  },
+  {
+    "country": "BD",
+    "city": "sylhet"
+  },
+  {
+    "country": "BD",
+    "city": "mymensingh"
+  },
+  {
+    "country": "BD",
+    "city": "khulna"
+  },
+  {
+    "country": "BD",
+    "city": "rajshahi"
+  },
+  {
+    "country": "BD",
+    "city": "err"
+  },
+  {
+    "country": "BD",
+    "city": "bogra"
+  },
+  {
+    "country": "BD",
+    "city": "comilla"
+  },
+  {
+    "country": "BD",
+    "city": "barisal"
+  },
+  {
+    "country": "BD",
+    "city": "tangail"
+  },
+  {
+    "country": "BD",
+    "city": "rangpur_city"
+  },
+  {
+    "country": "BD",
+    "city": "dinajpur"
+  },
+  {
+    "country": "BD",
+    "city": "mirpur"
+  },
+  {
+    "country": "BE",
+    "city": "brussels"
+  },
+  {
+    "country": "BG",
+    "city": "sofia"
+  },
+  {
+    "country": "BG",
+    "city": "plovdiv"
+  },
+  {
+    "country": "BG",
+    "city": "varna"
+  },
+  {
+    "country": "BG",
+    "city": "pleven"
+  },
+  {
+    "country": "BG",
+    "city": "burgas"
+  },
+  {
+    "country": "BH",
+    "city": "manama"
+  },
+  {
+    "country": "BI",
+    "city": "err"
+  },
+  {
+    "country": "BI",
+    "city": "bujumbura"
+  },
+  {
+    "country": "BJ",
+    "city": "cotonou"
+  },
+  {
+    "country": "BO",
+    "city": "la_paz"
+  },
+  {
+    "country": "BO",
+    "city": "santa_cruz"
+  },
+  {
+    "country": "BO",
+    "city": "cochabamba"
+  },
+  {
+    "country": "BO",
+    "city": "err"
+  },
+  {
+    "country": "BO",
+    "city": "sucre"
+  },
+  {
+    "country": "BO",
+    "city": "tarija"
+  },
+  {
+    "country": "BO",
+    "city": "oruro"
+  },
+  {
+    "country": "BR",
+    "city": "são_paulo"
+  },
+  {
+    "country": "BR",
+    "city": "rio_de_janeiro"
+  },
+  {
+    "country": "BR",
+    "city": "err"
+  },
+  {
+    "country": "BR",
+    "city": "fortaleza"
+  },
+  {
+    "country": "BR",
+    "city": "salvador"
+  },
+  {
+    "country": "BR",
+    "city": "manaus"
+  },
+  {
+    "country": "BR",
+    "city": "brasília"
+  },
+  {
+    "country": "BR",
+    "city": "belo_horizonte"
+  },
+  {
+    "country": "BR",
+    "city": "recife"
+  },
+  {
+    "country": "BR",
+    "city": "goiânia"
+  },
+  {
+    "country": "BR",
+    "city": "curitiba"
+  },
+  {
+    "country": "BR",
+    "city": "porto_alegre"
+  },
+  {
+    "country": "BR",
+    "city": "teresina"
+  },
+  {
+    "country": "BR",
+    "city": "guarulhos"
+  },
+  {
+    "country": "BR",
+    "city": "joão_pessoa"
+  },
+  {
+    "country": "BR",
+    "city": "campinas"
+  },
+  {
+    "country": "BR",
+    "city": "natal"
+  },
+  {
+    "country": "BR",
+    "city": "belém"
+  },
+  {
+    "country": "BR",
+    "city": "maceió"
+  },
+  {
+    "country": "BR",
+    "city": "são_bernardo_do_campo"
+  },
+  {
+    "country": "BR",
+    "city": "nova_iguaçu"
+  },
+  {
+    "country": "BR",
+    "city": "são_josé_dos_campos"
+  },
+  {
+    "country": "BR",
+    "city": "sao_goncalo"
+  },
+  {
+    "country": "BR",
+    "city": "são_luís"
+  },
+  {
+    "country": "BR",
+    "city": "campo_grande"
+  },
+  {
+    "country": "BR",
+    "city": "duque_de_caxias"
+  },
+  {
+    "country": "BR",
+    "city": "aracaju"
+  },
+  {
+    "country": "BR",
+    "city": "feira_de_santana"
+  },
+  {
+    "country": "BR",
+    "city": "macapá"
+  },
+  {
+    "country": "BR",
+    "city": "santo_andré"
+  },
+  {
+    "country": "BR",
+    "city": "campina_grande"
+  },
+  {
+    "country": "BR",
+    "city": "joinville"
+  },
+  {
+    "country": "BR",
+    "city": "contagem"
+  },
+  {
+    "country": "BR",
+    "city": "osasco"
+  },
+  {
+    "country": "BR",
+    "city": "cabo_frio"
+  },
+  {
+    "country": "BR",
+    "city": "cuiabá"
+  },
+  {
+    "country": "BR",
+    "city": "sorocaba"
+  },
+  {
+    "country": "BR",
+    "city": "petrolina"
+  },
+  {
+    "country": "BR",
+    "city": "uberlândia"
+  },
+  {
+    "country": "BR",
+    "city": "imperatriz"
+  },
+  {
+    "country": "BR",
+    "city": "jaboatao_dos_guararapes"
+  },
+  {
+    "country": "BR",
+    "city": "foz_do_iguaçu"
+  },
+  {
+    "country": "BR",
+    "city": "olinda"
+  },
+  {
+    "country": "BR",
+    "city": "ananindeua"
+  },
+  {
+    "country": "BR",
+    "city": "santos"
+  },
+  {
+    "country": "BR",
+    "city": "barueri"
+  },
+  {
+    "country": "BR",
+    "city": "vila_velha"
+  },
+  {
+    "country": "BR",
+    "city": "paulista"
+  },
+  {
+    "country": "BR",
+    "city": "maua"
+  },
+  {
+    "country": "BR",
+    "city": "praia_grande"
+  },
+  {
+    "country": "BR",
+    "city": "florianópolis"
+  },
+  {
+    "country": "BR",
+    "city": "porto_velho"
+  },
+  {
+    "country": "BR",
+    "city": "itaquaquecetuba"
+  },
+  {
+    "country": "BR",
+    "city": "diadema"
+  },
+  {
+    "country": "BR",
+    "city": "niterói"
+  },
+  {
+    "country": "BR",
+    "city": "montes_claros"
+  },
+  {
+    "country": "BR",
+    "city": "sao_jose_do_rio_preto"
+  },
+  {
+    "country": "BR",
+    "city": "belford_roxo"
+  },
+  {
+    "country": "BR",
+    "city": "volta_redonda"
+  },
+  {
+    "country": "BR",
+    "city": "uberaba"
+  },
+  {
+    "country": "BR",
+    "city": "maringá"
+  },
+  {
+    "country": "BR",
+    "city": "arapiraca"
+  },
+  {
+    "country": "BR",
+    "city": "guaruja"
+  },
+  {
+    "country": "BR",
+    "city": "são_josé_dos_pinhais"
+  },
+  {
+    "country": "BR",
+    "city": "divinópolis"
+  },
+  {
+    "country": "BR",
+    "city": "bauru"
+  },
+  {
+    "country": "BR",
+    "city": "vitoria_de_santo_antao"
+  },
+  {
+    "country": "BR",
+    "city": "sao_joao_de_meriti"
+  },
+  {
+    "country": "BR",
+    "city": "vitória_da_conquista"
+  },
+  {
+    "country": "BR",
+    "city": "sao_jose"
+  },
+  {
+    "country": "BR",
+    "city": "piracicaba"
+  },
+  {
+    "country": "BR",
+    "city": "caruaru"
+  },
+  {
+    "country": "BR",
+    "city": "boa_vista"
+  },
+  {
+    "country": "BR",
+    "city": "canoas"
+  },
+  {
+    "country": "BR",
+    "city": "ribeirão_preto"
+  },
+  {
+    "country": "BR",
+    "city": "sobral"
+  },
+  {
+    "country": "BR",
+    "city": "cajazeiras"
+  },
+  {
+    "country": "BR",
+    "city": "macaé"
+  },
+  {
+    "country": "BR",
+    "city": "cariacica"
+  },
+  {
+    "country": "BR",
+    "city": "anápolis"
+  },
+  {
+    "country": "BR",
+    "city": "campos_dos_goytacazes"
+  },
+  {
+    "country": "BR",
+    "city": "petrópolis"
+  },
+  {
+    "country": "BR",
+    "city": "mossoro"
+  },
+  {
+    "country": "BR",
+    "city": "camaçari"
+  },
+  {
+    "country": "BR",
+    "city": "dourados"
+  },
+  {
+    "country": "BR",
+    "city": "caxias"
+  },
+  {
+    "country": "BR",
+    "city": "embu"
+  },
+  {
+    "country": "BR",
+    "city": "ilhéus"
+  },
+  {
+    "country": "BR",
+    "city": "betim"
+  },
+  {
+    "country": "BR",
+    "city": "sao_vicente"
+  },
+  {
+    "country": "BR",
+    "city": "ferraz_de_vasconcelos"
+  },
+  {
+    "country": "BR",
+    "city": "santa_luzia"
+  },
+  {
+    "country": "BR",
+    "city": "colombo"
+  },
+  {
+    "country": "BR",
+    "city": "tatuí"
+  },
+  {
+    "country": "BR",
+    "city": "pelotas"
+  },
+  {
+    "country": "BR",
+    "city": "crato"
+  },
+  {
+    "country": "BR",
+    "city": "novo_hamburgo"
+  },
+  {
+    "country": "BR",
+    "city": "araraquara"
+  },
+  {
+    "country": "BR",
+    "city": "mogi_das_cruzes"
+  },
+  {
+    "country": "BR",
+    "city": "caucaia"
+  },
+  {
+    "country": "BR",
+    "city": "juiz_de_fora"
+  },
+  {
+    "country": "BR",
+    "city": "parnamirim"
+  },
+  {
+    "country": "BR",
+    "city": "criciúma"
+  },
+  {
+    "country": "BR",
+    "city": "ribeirão_das_neves"
+  },
+  {
+    "country": "BR",
+    "city": "ipojuca"
+  },
+  {
+    "country": "BR",
+    "city": "itaperuna"
+  },
+  {
+    "country": "BR",
+    "city": "itaborai"
+  },
+  {
+    "country": "BR",
+    "city": "sumaré"
+  },
+  {
+    "country": "BR",
+    "city": "sapiranga"
+  },
+  {
+    "country": "BR",
+    "city": "taubate"
+  },
+  {
+    "country": "BR",
+    "city": "palmas"
+  },
+  {
+    "country": "BS",
+    "city": "nassau"
+  },
+  {
+    "country": "BW",
+    "city": "gaborone"
+  },
+  {
+    "country": "BY",
+    "city": "minsk"
+  },
+  {
+    "country": "BY",
+    "city": "brest"
+  },
+  {
+    "country": "BY",
+    "city": "mogilev"
+  },
+  {
+    "country": "BY",
+    "city": "vitebsk"
+  },
+  {
+    "country": "BY",
+    "city": "hrodna"
+  },
+  {
+    "country": "BY",
+    "city": "gomel"
+  },
+  {
+    "country": "CA",
+    "city": "toronto"
+  },
+  {
+    "country": "CA",
+    "city": "montreal"
+  },
+  {
+    "country": "CA",
+    "city": "calgary"
+  },
+  {
+    "country": "CA",
+    "city": "winnipeg"
+  },
+  {
+    "country": "CA",
+    "city": "edmonton"
+  },
+  {
+    "country": "CA",
+    "city": "brampton"
+  },
+  {
+    "country": "CA",
+    "city": "london"
+  },
+  {
+    "country": "CA",
+    "city": "scarborough"
+  },
+  {
+    "country": "CH",
+    "city": "zurich"
+  },
+  {
+    "country": "CI",
+    "city": "abidjan"
+  },
+  {
+    "country": "CL",
+    "city": "santiago"
+  },
+  {
+    "country": "CL",
+    "city": "concepción"
+  },
+  {
+    "country": "CL",
+    "city": "viña_del_mar"
+  },
+  {
+    "country": "CL",
+    "city": "temuco"
+  },
+  {
+    "country": "CL",
+    "city": "antofagasta"
+  },
+  {
+    "country": "CL",
+    "city": "iquique"
+  },
+  {
+    "country": "CL",
+    "city": "arica"
+  },
+  {
+    "country": "CL",
+    "city": "coquimbo"
+  },
+  {
+    "country": "CL",
+    "city": "rancagua"
+  },
+  {
+    "country": "CL",
+    "city": "los_ángeles"
+  },
+  {
+    "country": "CL",
+    "city": "talca"
+  },
+  {
+    "country": "CL",
+    "city": "la_serena"
+  },
+  {
+    "country": "CL",
+    "city": "punta_arenas"
+  },
+  {
+    "country": "CL",
+    "city": "osorno"
+  },
+  {
+    "country": "CL",
+    "city": "curicó"
+  },
+  {
+    "country": "CL",
+    "city": "valparaíso"
+  },
+  {
+    "country": "CL",
+    "city": "chillan"
+  },
+  {
+    "country": "CL",
+    "city": "port_montt"
+  },
+  {
+    "country": "CL",
+    "city": "valdivia"
+  },
+  {
+    "country": "CL",
+    "city": "quillota"
+  },
+  {
+    "country": "CL",
+    "city": "copiapó"
+  },
+  {
+    "country": "CL",
+    "city": "coronel"
+  },
+  {
+    "country": "CL",
+    "city": "quilpué"
+  },
+  {
+    "country": "CL",
+    "city": "calama"
+  },
+  {
+    "country": "CL",
+    "city": "err"
+  },
+  {
+    "country": "CM",
+    "city": "yaoundé"
+  },
+  {
+    "country": "CM",
+    "city": "douala"
+  },
+  {
+    "country": "CN",
+    "city": "err"
+  },
+  {
+    "country": "CN",
+    "city": "guangzhou"
+  },
+  {
+    "country": "CN",
+    "city": "beijing"
+  },
+  {
+    "country": "CN",
+    "city": "chengdu"
+  },
+  {
+    "country": "CN",
+    "city": "shenzhen"
+  },
+  {
+    "country": "CN",
+    "city": "shanghai"
+  },
+  {
+    "country": "CN",
+    "city": "xian"
+  },
+  {
+    "country": "CN",
+    "city": "tianjin"
+  },
+  {
+    "country": "CN",
+    "city": "wuhan"
+  },
+  {
+    "country": "CN",
+    "city": "zhengzhou"
+  },
+  {
+    "country": "CN",
+    "city": "dongguan"
+  },
+  {
+    "country": "CN",
+    "city": "chongqing"
+  },
+  {
+    "country": "CN",
+    "city": "foshan"
+  },
+  {
+    "country": "CN",
+    "city": "suzhou"
+  },
+  {
+    "country": "CN",
+    "city": "jinan"
+  },
+  {
+    "country": "CN",
+    "city": "zhenjiang"
+  },
+  {
+    "country": "CN",
+    "city": "shijiazhuang"
+  },
+  {
+    "country": "CN",
+    "city": "hangzhou"
+  },
+  {
+    "country": "CN",
+    "city": "fuzhou"
+  },
+  {
+    "country": "CN",
+    "city": "hefei"
+  },
+  {
+    "country": "CN",
+    "city": "shenyang"
+  },
+  {
+    "country": "CN",
+    "city": "nanjing"
+  },
+  {
+    "country": "CN",
+    "city": "harbin"
+  },
+  {
+    "country": "CN",
+    "city": "yaocheng"
+  },
+  {
+    "country": "CN",
+    "city": "baoding"
+  },
+  {
+    "country": "CN",
+    "city": "taizhou"
+  },
+  {
+    "country": "CN",
+    "city": "qingdao"
+  },
+  {
+    "country": "CO",
+    "city": "bogotá"
+  },
+  {
+    "country": "CO",
+    "city": "medellín"
+  },
+  {
+    "country": "CO",
+    "city": "santiago_de_cali"
+  },
+  {
+    "country": "CO",
+    "city": "barranquilla"
+  },
+  {
+    "country": "CO",
+    "city": "pereira"
+  },
+  {
+    "country": "CO",
+    "city": "cartagena"
+  },
+  {
+    "country": "CO",
+    "city": "bucaramanga"
+  },
+  {
+    "country": "CO",
+    "city": "cúcuta"
+  },
+  {
+    "country": "CO",
+    "city": "err"
+  },
+  {
+    "country": "CO",
+    "city": "ibague"
+  },
+  {
+    "country": "CO",
+    "city": "valledupar"
+  },
+  {
+    "country": "CO",
+    "city": "santa_marta"
+  },
+  {
+    "country": "CO",
+    "city": "villavicencio"
+  },
+  {
+    "country": "CO",
+    "city": "armenia"
+  },
+  {
+    "country": "CO",
+    "city": "manizales"
+  },
+  {
+    "country": "CO",
+    "city": "pasto"
+  },
+  {
+    "country": "CO",
+    "city": "montería"
+  },
+  {
+    "country": "CO",
+    "city": "popayan"
+  },
+  {
+    "country": "CO",
+    "city": "neiva"
+  },
+  {
+    "country": "CO",
+    "city": "tunja"
+  },
+  {
+    "country": "CO",
+    "city": "soacha"
+  },
+  {
+    "country": "CO",
+    "city": "sincelejo"
+  },
+  {
+    "country": "CO",
+    "city": "soledad"
+  },
+  {
+    "country": "CO",
+    "city": "palmira"
+  },
+  {
+    "country": "CO",
+    "city": "tuluá"
+  },
+  {
+    "country": "CO",
+    "city": "bello"
+  },
+  {
+    "country": "CO",
+    "city": "envigado"
+  },
+  {
+    "country": "CO",
+    "city": "cajica"
+  },
+  {
+    "country": "CO",
+    "city": "riohacha"
+  },
+  {
+    "country": "CO",
+    "city": "chia"
+  },
+  {
+    "country": "CO",
+    "city": "floridablanca"
+  },
+  {
+    "country": "CO",
+    "city": "rionegro"
+  },
+  {
+    "country": "CO",
+    "city": "yopal"
+  },
+  {
+    "country": "CO",
+    "city": "barrancabermeja"
+  },
+  {
+    "country": "CO",
+    "city": "itaguei"
+  },
+  {
+    "country": "CO",
+    "city": "sogamoso"
+  },
+  {
+    "country": "CO",
+    "city": "fusagasuga"
+  },
+  {
+    "country": "CO",
+    "city": "ocaña"
+  },
+  {
+    "country": "CO",
+    "city": "pitalito"
+  },
+  {
+    "country": "CO",
+    "city": "florencia"
+  },
+  {
+    "country": "CO",
+    "city": "apartado"
+  },
+  {
+    "country": "CO",
+    "city": "aguachica"
+  },
+  {
+    "country": "CO",
+    "city": "guadalajara_de_buga"
+  },
+  {
+    "country": "CO",
+    "city": "cartago"
+  },
+  {
+    "country": "CO",
+    "city": "duitama"
+  },
+  {
+    "country": "CO",
+    "city": "la_union"
+  },
+  {
+    "country": "CO",
+    "city": "san_vicente_de_chucuri"
+  },
+  {
+    "country": "CO",
+    "city": "facatativá"
+  },
+  {
+    "country": "CO",
+    "city": "dosquebradas"
+  },
+  {
+    "country": "CO",
+    "city": "sabaneta"
+  },
+  {
+    "country": "CR",
+    "city": "san_josé"
+  },
+  {
+    "country": "CR",
+    "city": "alajuela"
+  },
+  {
+    "country": "CR",
+    "city": "heredia"
+  },
+  {
+    "country": "CR",
+    "city": "cartago"
+  },
+  {
+    "country": "CW",
+    "city": "willemstad"
+  },
+  {
+    "country": "CY",
+    "city": "nicosia"
+  },
+  {
+    "country": "CY",
+    "city": "limassol"
+  },
+  {
+    "country": "CZ",
+    "city": "prague"
+  },
+  {
+    "country": "CZ",
+    "city": "brno"
+  },
+  {
+    "country": "CZ",
+    "city": "ostrava"
+  },
+  {
+    "country": "DE",
+    "city": "berlin"
+  },
+  {
+    "country": "DE",
+    "city": "err"
+  },
+  {
+    "country": "DE",
+    "city": "munich"
+  },
+  {
+    "country": "DE",
+    "city": "hamburg"
+  },
+  {
+    "country": "DE",
+    "city": "cologne"
+  },
+  {
+    "country": "DE",
+    "city": "frankfurt_am_main"
+  },
+  {
+    "country": "DE",
+    "city": "stuttgart"
+  },
+  {
+    "country": "DE",
+    "city": "düsseldorf"
+  },
+  {
+    "country": "DE",
+    "city": "essen"
+  },
+  {
+    "country": "DE",
+    "city": "dortmund"
+  },
+  {
+    "country": "DO",
+    "city": "santo_domingo_este"
+  },
+  {
+    "country": "DO",
+    "city": "santiago_de_los_caballeros"
+  },
+  {
+    "country": "DO",
+    "city": "la_romana"
+  },
+  {
+    "country": "DO",
+    "city": "villa_bisono"
+  },
+  {
+    "country": "DO",
+    "city": "err"
+  },
+  {
+    "country": "DO",
+    "city": "guaymate"
+  },
+  {
+    "country": "DO",
+    "city": "san_pedro_de_macorís"
+  },
+  {
+    "country": "DO",
+    "city": "san_cristobal"
+  },
+  {
+    "country": "DO",
+    "city": "concepción_de_la_vega"
+  },
+  {
+    "country": "DO",
+    "city": "san_francisco_de_macorís"
+  },
+  {
+    "country": "DO",
+    "city": "altamira"
+  },
+  {
+    "country": "DO",
+    "city": "santo_domingo_oeste"
+  },
+  {
+    "country": "DO",
+    "city": "mao"
+  },
+  {
+    "country": "DO",
+    "city": "puerto_plata"
+  },
+  {
+    "country": "DO",
+    "city": "ensanche_ozama"
+  },
+  {
+    "country": "DZ",
+    "city": "err"
+  },
+  {
+    "country": "DZ",
+    "city": "algiers"
+  },
+  {
+    "country": "DZ",
+    "city": "oran"
+  },
+  {
+    "country": "DZ",
+    "city": "batna_city"
+  },
+  {
+    "country": "DZ",
+    "city": "sétif"
+  },
+  {
+    "country": "DZ",
+    "city": "constantine"
+  },
+  {
+    "country": "DZ",
+    "city": "tlemcen"
+  },
+  {
+    "country": "DZ",
+    "city": "blida"
+  },
+  {
+    "country": "DZ",
+    "city": "annaba"
+  },
+  {
+    "country": "DZ",
+    "city": "mostaganem"
+  },
+  {
+    "country": "DZ",
+    "city": "tizi_ouzou"
+  },
+  {
+    "country": "DZ",
+    "city": "tiaret"
+  },
+  {
+    "country": "DZ",
+    "city": "béjaïa"
+  },
+  {
+    "country": "DZ",
+    "city": "mila"
+  },
+  {
+    "country": "DZ",
+    "city": "jijelli"
+  },
+  {
+    "country": "DZ",
+    "city": "guelma"
+  },
+  {
+    "country": "DZ",
+    "city": "ghardaïa"
+  },
+  {
+    "country": "DZ",
+    "city": "djelfa"
+  },
+  {
+    "country": "DZ",
+    "city": "skikda"
+  },
+  {
+    "country": "DZ",
+    "city": "béchar"
+  },
+  {
+    "country": "DZ",
+    "city": "sidi_bel_abbes"
+  },
+  {
+    "country": "DZ",
+    "city": "relizane"
+  },
+  {
+    "country": "DZ",
+    "city": "sougueur"
+  },
+  {
+    "country": "DZ",
+    "city": "maghnia"
+  },
+  {
+    "country": "DZ",
+    "city": "ouargla"
+  },
+  {
+    "country": "DZ",
+    "city": "medea"
+  },
+  {
+    "country": "EC",
+    "city": "quito"
+  },
+  {
+    "country": "EC",
+    "city": "guayaquil"
+  },
+  {
+    "country": "EC",
+    "city": "cuenca"
+  },
+  {
+    "country": "EC",
+    "city": "manta"
+  },
+  {
+    "country": "EC",
+    "city": "ambato"
+  },
+  {
+    "country": "EC",
+    "city": "err"
+  },
+  {
+    "country": "EC",
+    "city": "ibarra"
+  },
+  {
+    "country": "EC",
+    "city": "machala"
+  },
+  {
+    "country": "EC",
+    "city": "pascuales"
+  },
+  {
+    "country": "EC",
+    "city": "portoviejo"
+  },
+  {
+    "country": "EC",
+    "city": "esmeraldas"
+  },
+  {
+    "country": "EC",
+    "city": "loja"
+  },
+  {
+    "country": "EC",
+    "city": "babahoyo"
+  },
+  {
+    "country": "EC",
+    "city": "riobamba"
+  },
+  {
+    "country": "EC",
+    "city": "milagro"
+  },
+  {
+    "country": "EC",
+    "city": "quevedo"
+  },
+  {
+    "country": "EC",
+    "city": "bellavista"
+  },
+  {
+    "country": "EC",
+    "city": "santa_rosa"
+  },
+  {
+    "country": "EC",
+    "city": "puyo"
+  },
+  {
+    "country": "EC",
+    "city": "latacunga"
+  },
+  {
+    "country": "EC",
+    "city": "santo_domingo_de_los_colorados"
+  },
+  {
+    "country": "EC",
+    "city": "salinas"
+  },
+  {
+    "country": "EE",
+    "city": "tallinn"
+  },
+  {
+    "country": "EG",
+    "city": "cairo"
+  },
+  {
+    "country": "EG",
+    "city": "alexandria"
+  },
+  {
+    "country": "EG",
+    "city": "al_mansurah"
+  },
+  {
+    "country": "EG",
+    "city": "tanta"
+  },
+  {
+    "country": "EG",
+    "city": "minya"
+  },
+  {
+    "country": "EG",
+    "city": "sohag"
+  },
+  {
+    "country": "EG",
+    "city": "giza"
+  },
+  {
+    "country": "EG",
+    "city": "zagazig"
+  },
+  {
+    "country": "EG",
+    "city": "ismailia"
+  },
+  {
+    "country": "EG",
+    "city": "damietta"
+  },
+  {
+    "country": "EG",
+    "city": "damanhur"
+  },
+  {
+    "country": "EG",
+    "city": "banha"
+  },
+  {
+    "country": "EG",
+    "city": "assiut"
+  },
+  {
+    "country": "EG",
+    "city": "err"
+  },
+  {
+    "country": "EG",
+    "city": "qina"
+  },
+  {
+    "country": "EG",
+    "city": "suez"
+  },
+  {
+    "country": "EG",
+    "city": "aswan"
+  },
+  {
+    "country": "ES",
+    "city": "madrid"
+  },
+  {
+    "country": "ES",
+    "city": "barcelona"
+  },
+  {
+    "country": "ES",
+    "city": "err"
+  },
+  {
+    "country": "ES",
+    "city": "valencia"
+  },
+  {
+    "country": "ES",
+    "city": "seville"
+  },
+  {
+    "country": "ES",
+    "city": "granada"
+  },
+  {
+    "country": "ES",
+    "city": "zaragoza"
+  },
+  {
+    "country": "ES",
+    "city": "málaga"
+  },
+  {
+    "country": "ES",
+    "city": "murcia"
+  },
+  {
+    "country": "ES",
+    "city": "alicante"
+  },
+  {
+    "country": "ES",
+    "city": "cordova"
+  },
+  {
+    "country": "ES",
+    "city": "bilbao"
+  },
+  {
+    "country": "ES",
+    "city": "palma"
+  },
+  {
+    "country": "ES",
+    "city": "vigo"
+  },
+  {
+    "country": "ES",
+    "city": "pamplona"
+  },
+  {
+    "country": "ES",
+    "city": "valladolid"
+  },
+  {
+    "country": "ES",
+    "city": "las_palmas_de_gran_canaria"
+  },
+  {
+    "country": "ES",
+    "city": "almería"
+  },
+  {
+    "country": "ES",
+    "city": "badalona"
+  },
+  {
+    "country": "ES",
+    "city": "oviedo"
+  },
+  {
+    "country": "ES",
+    "city": "terrassa"
+  },
+  {
+    "country": "ES",
+    "city": "sabadell"
+  },
+  {
+    "country": "ES",
+    "city": "huelva"
+  },
+  {
+    "country": "ES",
+    "city": "barakaldo"
+  },
+  {
+    "country": "ES",
+    "city": "jerez_de_la_frontera"
+  },
+  {
+    "country": "ES",
+    "city": "palencia"
+  },
+  {
+    "country": "ES",
+    "city": "torremolinos"
+  },
+  {
+    "country": "ES",
+    "city": "salamanca"
+  },
+  {
+    "country": "ES",
+    "city": "gijón"
+  },
+  {
+    "country": "ES",
+    "city": "santander"
+  },
+  {
+    "country": "ES",
+    "city": "vitoria_gasteiz"
+  },
+  {
+    "country": "ES",
+    "city": "albacete"
+  },
+  {
+    "country": "ES",
+    "city": "jaén"
+  },
+  {
+    "country": "ES",
+    "city": "ciudad_real"
+  },
+  {
+    "country": "ES",
+    "city": "elche"
+  },
+  {
+    "country": "ES",
+    "city": "san_sebastián_de_la_gomera"
+  },
+  {
+    "country": "ES",
+    "city": "león"
+  },
+  {
+    "country": "ES",
+    "city": "alcalá_de_henares"
+  },
+  {
+    "country": "ES",
+    "city": "fuenlabrada"
+  },
+  {
+    "country": "ES",
+    "city": "san_cristóbal_de_la_laguna"
+  },
+  {
+    "country": "ES",
+    "city": "logroño"
+  },
+  {
+    "country": "ES",
+    "city": "alcorcón"
+  },
+  {
+    "country": "ES",
+    "city": "santiago_de_compostela"
+  },
+  {
+    "country": "ES",
+    "city": "leganés"
+  },
+  {
+    "country": "ES",
+    "city": "cadiz"
+  },
+  {
+    "country": "ES",
+    "city": "lleida"
+  },
+  {
+    "country": "ES",
+    "city": "durango"
+  },
+  {
+    "country": "ES",
+    "city": "coslada"
+  },
+  {
+    "country": "ES",
+    "city": "manresa"
+  },
+  {
+    "country": "ES",
+    "city": "cartagena"
+  },
+  {
+    "country": "ES",
+    "city": "badajoz"
+  },
+  {
+    "country": "ES",
+    "city": "dos_hermanas"
+  },
+  {
+    "country": "ES",
+    "city": "arrecife"
+  },
+  {
+    "country": "ES",
+    "city": "mostoles"
+  },
+  {
+    "country": "ES",
+    "city": "castelló_de_la_plana"
+  },
+  {
+    "country": "ES",
+    "city": "fuengirola"
+  },
+  {
+    "country": "ES",
+    "city": "marbella"
+  },
+  {
+    "country": "ES",
+    "city": "mataró"
+  },
+  {
+    "country": "ES",
+    "city": "getafe"
+  },
+  {
+    "country": "ET",
+    "city": "err"
+  },
+  {
+    "country": "ET",
+    "city": "addis_ababa"
+  },
+  {
+    "country": "ET",
+    "city": "bahir_dar"
+  },
+  {
+    "country": "FI",
+    "city": "helsinki"
+  },
+  {
+    "country": "FR",
+    "city": "paris"
+  },
+  {
+    "country": "FR",
+    "city": "err"
+  },
+  {
+    "country": "FR",
+    "city": "lyon"
+  },
+  {
+    "country": "FR",
+    "city": "marseille"
+  },
+  {
+    "country": "GB",
+    "city": "err"
+  },
+  {
+    "country": "GB",
+    "city": "london"
+  },
+  {
+    "country": "GB",
+    "city": "manchester"
+  },
+  {
+    "country": "GB",
+    "city": "liverpool"
+  },
+  {
+    "country": "GB",
+    "city": "glasgow"
+  },
+  {
+    "country": "GB",
+    "city": "nottingham"
+  },
+  {
+    "country": "GB",
+    "city": "birmingham"
+  },
+  {
+    "country": "GB",
+    "city": "leeds"
+  },
+  {
+    "country": "GB",
+    "city": "wolverhampton"
+  },
+  {
+    "country": "GB",
+    "city": "coventry"
+  },
+  {
+    "country": "GB",
+    "city": "cardiff"
+  },
+  {
+    "country": "GB",
+    "city": "bristol"
+  },
+  {
+    "country": "GB",
+    "city": "leicester"
+  },
+  {
+    "country": "GB",
+    "city": "croydon"
+  },
+  {
+    "country": "GB",
+    "city": "milton_keynes"
+  },
+  {
+    "country": "GB",
+    "city": "northampton"
+  },
+  {
+    "country": "GB",
+    "city": "southampton"
+  },
+  {
+    "country": "GE",
+    "city": "tbilisi"
+  },
+  {
+    "country": "GE",
+    "city": "kutaisi"
+  },
+  {
+    "country": "GE",
+    "city": "err"
+  },
+  {
+    "country": "GE",
+    "city": "batumi"
+  },
+  {
+    "country": "GE",
+    "city": "tskhinvali"
+  },
+  {
+    "country": "GH",
+    "city": "accra"
+  },
+  {
+    "country": "GR",
+    "city": "athens"
+  },
+  {
+    "country": "GR",
+    "city": "thessaloniki"
+  },
+  {
+    "country": "GR",
+    "city": "err"
+  },
+  {
+    "country": "GR",
+    "city": "ioannina"
+  },
+  {
+    "country": "GT",
+    "city": "guatemala_city"
+  },
+  {
+    "country": "GT",
+    "city": "jalapa"
+  },
+  {
+    "country": "GT",
+    "city": "mixco"
+  },
+  {
+    "country": "GY",
+    "city": "georgetown"
+  },
+  {
+    "country": "HK",
+    "city": "central"
+  },
+  {
+    "country": "HK",
+    "city": "err"
+  },
+  {
+    "country": "HN",
+    "city": "tegucigalpa"
+  },
+  {
+    "country": "HN",
+    "city": "san_pedro_sula"
+  },
+  {
+    "country": "HN",
+    "city": "puerto_cortez"
+  },
+  {
+    "country": "HN",
+    "city": "tocoa"
+  },
+  {
+    "country": "HN",
+    "city": "err"
+  },
+  {
+    "country": "HN",
+    "city": "la_ceiba"
+  },
+  {
+    "country": "HN",
+    "city": "choloma"
+  },
+  {
+    "country": "HN",
+    "city": "el_progreso"
+  },
+  {
+    "country": "HN",
+    "city": "comayagua"
+  },
+  {
+    "country": "HR",
+    "city": "zagreb"
+  },
+  {
+    "country": "HR",
+    "city": "split"
+  },
+  {
+    "country": "HR",
+    "city": "varaždin"
+  },
+  {
+    "country": "HR",
+    "city": "čakovec"
+  },
+  {
+    "country": "HU",
+    "city": "budapest"
+  },
+  {
+    "country": "ID",
+    "city": "surabaya"
+  },
+  {
+    "country": "ID",
+    "city": "jakarta"
+  },
+  {
+    "country": "ID",
+    "city": "bandung"
+  },
+  {
+    "country": "ID",
+    "city": "semarang"
+  },
+  {
+    "country": "ID",
+    "city": "medan"
+  },
+  {
+    "country": "ID",
+    "city": "bekasi"
+  },
+  {
+    "country": "ID",
+    "city": "tangerang"
+  },
+  {
+    "country": "ID",
+    "city": "malang"
+  },
+  {
+    "country": "ID",
+    "city": "banjarmasin"
+  },
+  {
+    "country": "ID",
+    "city": "kediri"
+  },
+  {
+    "country": "ID",
+    "city": "err"
+  },
+  {
+    "country": "ID",
+    "city": "yogyakarta"
+  },
+  {
+    "country": "ID",
+    "city": "palembang"
+  },
+  {
+    "country": "ID",
+    "city": "sidoarjo"
+  },
+  {
+    "country": "ID",
+    "city": "samarinda"
+  },
+  {
+    "country": "ID",
+    "city": "cirebon"
+  },
+  {
+    "country": "ID",
+    "city": "batam"
+  },
+  {
+    "country": "ID",
+    "city": "bogor"
+  },
+  {
+    "country": "ID",
+    "city": "tasikmalaya"
+  },
+  {
+    "country": "ID",
+    "city": "denpasar"
+  },
+  {
+    "country": "ID",
+    "city": "manado"
+  },
+  {
+    "country": "ID",
+    "city": "pontianak"
+  },
+  {
+    "country": "ID",
+    "city": "tulungagung"
+  },
+  {
+    "country": "ID",
+    "city": "makassar"
+  },
+  {
+    "country": "ID",
+    "city": "surakarta"
+  },
+  {
+    "country": "ID",
+    "city": "sleman"
+  },
+  {
+    "country": "ID",
+    "city": "palu"
+  },
+  {
+    "country": "ID",
+    "city": "pekanbaru"
+  },
+  {
+    "country": "ID",
+    "city": "depok"
+  },
+  {
+    "country": "ID",
+    "city": "balikpapan"
+  },
+  {
+    "country": "ID",
+    "city": "bandar_lampung"
+  },
+  {
+    "country": "ID",
+    "city": "kudus"
+  },
+  {
+    "country": "ID",
+    "city": "mataram"
+  },
+  {
+    "country": "ID",
+    "city": "blitar"
+  },
+  {
+    "country": "ID",
+    "city": "manggung"
+  },
+  {
+    "country": "ID",
+    "city": "jember"
+  },
+  {
+    "country": "ID",
+    "city": "gresik"
+  },
+  {
+    "country": "ID",
+    "city": "tarakan"
+  },
+  {
+    "country": "ID",
+    "city": "banjarbaru"
+  },
+  {
+    "country": "ID",
+    "city": "mogoi"
+  },
+  {
+    "country": "ID",
+    "city": "madiun"
+  },
+  {
+    "country": "ID",
+    "city": "sorong"
+  },
+  {
+    "country": "ID",
+    "city": "padang"
+  },
+  {
+    "country": "ID",
+    "city": "cianjur"
+  },
+  {
+    "country": "ID",
+    "city": "kupang"
+  },
+  {
+    "country": "ID",
+    "city": "garut"
+  },
+  {
+    "country": "ID",
+    "city": "pasuruan"
+  },
+  {
+    "country": "IE",
+    "city": "dublin"
+  },
+  {
+    "country": "IL",
+    "city": "tel_aviv"
+  },
+  {
+    "country": "IN",
+    "city": "mumbai"
+  },
+  {
+    "country": "IN",
+    "city": "delhi"
+  },
+  {
+    "country": "IN",
+    "city": "chennai"
+  },
+  {
+    "country": "IN",
+    "city": "hyderabad"
+  },
+  {
+    "country": "IN",
+    "city": "kolkata"
+  },
+  {
+    "country": "IN",
+    "city": "bengaluru"
+  },
+  {
+    "country": "IN",
+    "city": "new_delhi"
+  },
+  {
+    "country": "IN",
+    "city": "pune"
+  },
+  {
+    "country": "IN",
+    "city": "lucknow"
+  },
+  {
+    "country": "IN",
+    "city": "err"
+  },
+  {
+    "country": "IN",
+    "city": "jaipur"
+  },
+  {
+    "country": "IN",
+    "city": "ahmedabad"
+  },
+  {
+    "country": "IN",
+    "city": "patna"
+  },
+  {
+    "country": "IN",
+    "city": "indore"
+  },
+  {
+    "country": "IN",
+    "city": "ernakulam"
+  },
+  {
+    "country": "IN",
+    "city": "bhopal"
+  },
+  {
+    "country": "IN",
+    "city": "ludhiana"
+  },
+  {
+    "country": "IN",
+    "city": "bhubaneswar"
+  },
+  {
+    "country": "IN",
+    "city": "visakhapatnam"
+  },
+  {
+    "country": "IN",
+    "city": "coimbatore"
+  },
+  {
+    "country": "IN",
+    "city": "meerut"
+  },
+  {
+    "country": "IN",
+    "city": "noida"
+  },
+  {
+    "country": "IN",
+    "city": "shimla"
+  },
+  {
+    "country": "IN",
+    "city": "thrissur"
+  },
+  {
+    "country": "IN",
+    "city": "thane"
+  },
+  {
+    "country": "IN",
+    "city": "guwahati"
+  },
+  {
+    "country": "IN",
+    "city": "surat"
+  },
+  {
+    "country": "IN",
+    "city": "chandigarh"
+  },
+  {
+    "country": "IN",
+    "city": "trivandrum"
+  },
+  {
+    "country": "IN",
+    "city": "vijayawada"
+  },
+  {
+    "country": "IN",
+    "city": "nagpur"
+  },
+  {
+    "country": "IN",
+    "city": "ghaziabad"
+  },
+  {
+    "country": "IN",
+    "city": "imphal"
+  },
+  {
+    "country": "IN",
+    "city": "dehradun"
+  },
+  {
+    "country": "IN",
+    "city": "kochi"
+  },
+  {
+    "country": "IN",
+    "city": "gajuwaka"
+  },
+  {
+    "country": "IN",
+    "city": "raipur"
+  },
+  {
+    "country": "IN",
+    "city": "rohtak"
+  },
+  {
+    "country": "IN",
+    "city": "gurgaon"
+  },
+  {
+    "country": "IN",
+    "city": "howrah"
+  },
+  {
+    "country": "IN",
+    "city": "jammu"
+  },
+  {
+    "country": "IN",
+    "city": "jalandhar"
+  },
+  {
+    "country": "IN",
+    "city": "vadodara"
+  },
+  {
+    "country": "IN",
+    "city": "karnal"
+  },
+  {
+    "country": "IN",
+    "city": "kottayam"
+  },
+  {
+    "country": "IN",
+    "city": "kannur"
+  },
+  {
+    "country": "IN",
+    "city": "panipat"
+  },
+  {
+    "country": "IN",
+    "city": "mohali"
+  },
+  {
+    "country": "IN",
+    "city": "guntur"
+  },
+  {
+    "country": "IN",
+    "city": "ranchi"
+  },
+  {
+    "country": "IN",
+    "city": "araghar"
+  },
+  {
+    "country": "IN",
+    "city": "malappuram"
+  },
+  {
+    "country": "IN",
+    "city": "kalyan"
+  },
+  {
+    "country": "IN",
+    "city": "ulhasnagar"
+  },
+  {
+    "country": "IN",
+    "city": "dombivali"
+  },
+  {
+    "country": "IN",
+    "city": "rajkot"
+  },
+  {
+    "country": "IN",
+    "city": "siliguri"
+  },
+  {
+    "country": "IN",
+    "city": "mangalore"
+  },
+  {
+    "country": "IN",
+    "city": "salem"
+  },
+  {
+    "country": "IN",
+    "city": "kanpur"
+  },
+  {
+    "country": "IN",
+    "city": "murshidabad"
+  },
+  {
+    "country": "IN",
+    "city": "aizawl"
+  },
+  {
+    "country": "IN",
+    "city": "faridabad"
+  },
+  {
+    "country": "IN",
+    "city": "madurai"
+  },
+  {
+    "country": "IN",
+    "city": "nellore"
+  },
+  {
+    "country": "IN",
+    "city": "kozhikode"
+  },
+  {
+    "country": "IQ",
+    "city": "baghdad"
+  },
+  {
+    "country": "IQ",
+    "city": "basrah"
+  },
+  {
+    "country": "IQ",
+    "city": "err"
+  },
+  {
+    "country": "IQ",
+    "city": "erbil"
+  },
+  {
+    "country": "IQ",
+    "city": "najaf"
+  },
+  {
+    "country": "IR",
+    "city": "err"
+  },
+  {
+    "country": "IR",
+    "city": "tehran"
+  },
+  {
+    "country": "IR",
+    "city": "isfahan"
+  },
+  {
+    "country": "IR",
+    "city": "mashhad"
+  },
+  {
+    "country": "IR",
+    "city": "khowy"
+  },
+  {
+    "country": "IT",
+    "city": "err"
+  },
+  {
+    "country": "IT",
+    "city": "rome"
+  },
+  {
+    "country": "IT",
+    "city": "milan"
+  },
+  {
+    "country": "IT",
+    "city": "naples"
+  },
+  {
+    "country": "IT",
+    "city": "catania"
+  },
+  {
+    "country": "IT",
+    "city": "turin"
+  },
+  {
+    "country": "IT",
+    "city": "bari"
+  },
+  {
+    "country": "IT",
+    "city": "palermo"
+  },
+  {
+    "country": "IT",
+    "city": "florence"
+  },
+  {
+    "country": "IT",
+    "city": "padova"
+  },
+  {
+    "country": "IT",
+    "city": "genoa"
+  },
+  {
+    "country": "IT",
+    "city": "bologna"
+  },
+  {
+    "country": "IT",
+    "city": "cagliari"
+  },
+  {
+    "country": "IT",
+    "city": "treviso"
+  },
+  {
+    "country": "IT",
+    "city": "brescia"
+  },
+  {
+    "country": "IT",
+    "city": "viterbo"
+  },
+  {
+    "country": "JM",
+    "city": "kingston"
+  },
+  {
+    "country": "JM",
+    "city": "err"
+  },
+  {
+    "country": "JM",
+    "city": "montego_bay"
+  },
+  {
+    "country": "JO",
+    "city": "amman"
+  },
+  {
+    "country": "JP",
+    "city": "err"
+  },
+  {
+    "country": "KE",
+    "city": "nairobi"
+  },
+  {
+    "country": "KE",
+    "city": "err"
+  },
+  {
+    "country": "KE",
+    "city": "mombasa"
+  },
+  {
+    "country": "KG",
+    "city": "bishkek"
+  },
+  {
+    "country": "KH",
+    "city": "phnom_penh"
+  },
+  {
+    "country": "KH",
+    "city": "err"
+  },
+  {
+    "country": "KR",
+    "city": "seoul"
+  },
+  {
+    "country": "KR",
+    "city": "incheon"
+  },
+  {
+    "country": "KR",
+    "city": "busan"
+  },
+  {
+    "country": "KR",
+    "city": "daegu"
+  },
+  {
+    "country": "KR",
+    "city": "changwon"
+  },
+  {
+    "country": "KR",
+    "city": "gwangju"
+  },
+  {
+    "country": "KR",
+    "city": "seongnam_si"
+  },
+  {
+    "country": "KW",
+    "city": "kuwait_city"
+  },
+  {
+    "country": "KZ",
+    "city": "almaty"
+  },
+  {
+    "country": "KZ",
+    "city": "petropavl"
+  },
+  {
+    "country": "KZ",
+    "city": "karaganda"
+  },
+  {
+    "country": "KZ",
+    "city": "nur_sultan"
+  },
+  {
+    "country": "KZ",
+    "city": "kostanay"
+  },
+  {
+    "country": "KZ",
+    "city": "ridder"
+  },
+  {
+    "country": "KZ",
+    "city": "pavlodar"
+  },
+  {
+    "country": "LA",
+    "city": "vientiane"
+  },
+  {
+    "country": "LA",
+    "city": "err"
+  },
+  {
+    "country": "LB",
+    "city": "beirut"
+  },
+  {
+    "country": "LK",
+    "city": "colombo"
+  },
+  {
+    "country": "LK",
+    "city": "kandy"
+  },
+  {
+    "country": "LK",
+    "city": "dehiwala"
+  },
+  {
+    "country": "LK",
+    "city": "nugegoda"
+  },
+  {
+    "country": "LT",
+    "city": "vilnius"
+  },
+  {
+    "country": "LT",
+    "city": "druskininkai"
+  },
+  {
+    "country": "LT",
+    "city": "kaunas"
+  },
+  {
+    "country": "LT",
+    "city": "klaipėda"
+  },
+  {
+    "country": "LV",
+    "city": "riga"
+  },
+  {
+    "country": "MA",
+    "city": "casablanca"
+  },
+  {
+    "country": "MA",
+    "city": "agadir"
+  },
+  {
+    "country": "MA",
+    "city": "rabat"
+  },
+  {
+    "country": "MA",
+    "city": "marrakesh"
+  },
+  {
+    "country": "MA",
+    "city": "meknes"
+  },
+  {
+    "country": "MA",
+    "city": "fes"
+  },
+  {
+    "country": "MA",
+    "city": "oujda"
+  },
+  {
+    "country": "MA",
+    "city": "settat"
+  },
+  {
+    "country": "MA",
+    "city": "err"
+  },
+  {
+    "country": "MA",
+    "city": "kenitra"
+  },
+  {
+    "country": "MA",
+    "city": "salé"
+  },
+  {
+    "country": "MA",
+    "city": "nador"
+  },
+  {
+    "country": "MA",
+    "city": "tétouan"
+  },
+  {
+    "country": "MA",
+    "city": "tangier"
+  },
+  {
+    "country": "MA",
+    "city": "beni_mellal"
+  },
+  {
+    "country": "MD",
+    "city": "chisinau"
+  },
+  {
+    "country": "MD",
+    "city": "tiraspol"
+  },
+  {
+    "country": "MD",
+    "city": "err"
+  },
+  {
+    "country": "ME",
+    "city": "podgorica"
+  },
+  {
+    "country": "MG",
+    "city": "antananarivo"
+  },
+  {
+    "country": "MK",
+    "city": "skopje"
+  },
+  {
+    "country": "ML",
+    "city": "bamako"
+  },
+  {
+    "country": "MM",
+    "city": "yangon"
+  },
+  {
+    "country": "MM",
+    "city": "err"
+  },
+  {
+    "country": "MM",
+    "city": "mandalay"
+  },
+  {
+    "country": "MN",
+    "city": "ulan_bator"
+  },
+  {
+    "country": "MO",
+    "city": "macao"
+  },
+  {
+    "country": "MR",
+    "city": "tevragh_zeina"
+  },
+  {
+    "country": "MU",
+    "city": "port_louis"
+  },
+  {
+    "country": "MV",
+    "city": "malé"
+  },
+  {
+    "country": "MX",
+    "city": "mexico_city"
+  },
+  {
+    "country": "MX",
+    "city": "guadalajara"
+  },
+  {
+    "country": "MX",
+    "city": "err"
+  },
+  {
+    "country": "MX",
+    "city": "puebla_city"
+  },
+  {
+    "country": "MX",
+    "city": "tijuana"
+  },
+  {
+    "country": "MX",
+    "city": "monterrey"
+  },
+  {
+    "country": "MX",
+    "city": "mérida"
+  },
+  {
+    "country": "MX",
+    "city": "querétaro_city"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_juárez"
+  },
+  {
+    "country": "MX",
+    "city": "toluca"
+  },
+  {
+    "country": "MX",
+    "city": "león"
+  },
+  {
+    "country": "MX",
+    "city": "san_luis_potosí_city"
+  },
+  {
+    "country": "MX",
+    "city": "iztapalapa"
+  },
+  {
+    "country": "MX",
+    "city": "veracruz"
+  },
+  {
+    "country": "MX",
+    "city": "ecatepec"
+  },
+  {
+    "country": "MX",
+    "city": "zapopan"
+  },
+  {
+    "country": "MX",
+    "city": "guadalupe"
+  },
+  {
+    "country": "MX",
+    "city": "chalco"
+  },
+  {
+    "country": "MX",
+    "city": "puebla"
+  },
+  {
+    "country": "MX",
+    "city": "aguascalientes"
+  },
+  {
+    "country": "MX",
+    "city": "apodaca"
+  },
+  {
+    "country": "MX",
+    "city": "chihuahua_city"
+  },
+  {
+    "country": "MX",
+    "city": "coyoacán"
+  },
+  {
+    "country": "MX",
+    "city": "culiacán"
+  },
+  {
+    "country": "MX",
+    "city": "mexicali"
+  },
+  {
+    "country": "MX",
+    "city": "cuernavaca"
+  },
+  {
+    "country": "MX",
+    "city": "tuxtla_gutiérrez"
+  },
+  {
+    "country": "MX",
+    "city": "cancún"
+  },
+  {
+    "country": "MX",
+    "city": "torreon"
+  },
+  {
+    "country": "MX",
+    "city": "ensenada"
+  },
+  {
+    "country": "MX",
+    "city": "villahermosa"
+  },
+  {
+    "country": "MX",
+    "city": "pachuca"
+  },
+  {
+    "country": "MX",
+    "city": "tampico"
+  },
+  {
+    "country": "MX",
+    "city": "santa_maria_chimalhuacan"
+  },
+  {
+    "country": "MX",
+    "city": "morelia"
+  },
+  {
+    "country": "MX",
+    "city": "acapulco_de_juárez"
+  },
+  {
+    "country": "MX",
+    "city": "tlalpan"
+  },
+  {
+    "country": "MX",
+    "city": "xalapa"
+  },
+  {
+    "country": "MX",
+    "city": "reynosa"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_lopez_mateos"
+  },
+  {
+    "country": "MX",
+    "city": "naucalpan"
+  },
+  {
+    "country": "MX",
+    "city": "gustavo_adolfo_madero"
+  },
+  {
+    "country": "MX",
+    "city": "coatzacoalcos"
+  },
+  {
+    "country": "MX",
+    "city": "cuautitlán_izcalli"
+  },
+  {
+    "country": "MX",
+    "city": "hermosillo"
+  },
+  {
+    "country": "MX",
+    "city": "oaxaca_city"
+  },
+  {
+    "country": "MX",
+    "city": "ixtapaluca"
+  },
+  {
+    "country": "MX",
+    "city": "san_nicolás_de_los_garza"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_nezahualcoyotl"
+  },
+  {
+    "country": "MX",
+    "city": "orizaba"
+  },
+  {
+    "country": "MX",
+    "city": "tlalnepantla"
+  },
+  {
+    "country": "MX",
+    "city": "heroica_matamoros"
+  },
+  {
+    "country": "MX",
+    "city": "playa_del_carmen"
+  },
+  {
+    "country": "MX",
+    "city": "irapuato"
+  },
+  {
+    "country": "MX",
+    "city": "tlaxcala_city"
+  },
+  {
+    "country": "MX",
+    "city": "coacalco"
+  },
+  {
+    "country": "MX",
+    "city": "alvaro_obregon"
+  },
+  {
+    "country": "MX",
+    "city": "tepic"
+  },
+  {
+    "country": "MX",
+    "city": "celaya"
+  },
+  {
+    "country": "MX",
+    "city": "mazatlán"
+  },
+  {
+    "country": "MX",
+    "city": "poza_rica_de_hidalgo"
+  },
+  {
+    "country": "MX",
+    "city": "saltillo"
+  },
+  {
+    "country": "MX",
+    "city": "tlahuac"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_victoria"
+  },
+  {
+    "country": "MX",
+    "city": "tultitlan_de_mariano_escobedo"
+  },
+  {
+    "country": "MX",
+    "city": "zacatecas_city"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_benito_juarez"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_obregón"
+  },
+  {
+    "country": "MX",
+    "city": "durango"
+  },
+  {
+    "country": "MX",
+    "city": "la_paz"
+  },
+  {
+    "country": "MX",
+    "city": "córdoba"
+  },
+  {
+    "country": "MX",
+    "city": "cuautitlan"
+  },
+  {
+    "country": "MX",
+    "city": "los_mochis"
+  },
+  {
+    "country": "MX",
+    "city": "puerto_vallarta"
+  },
+  {
+    "country": "MX",
+    "city": "cuautla"
+  },
+  {
+    "country": "MX",
+    "city": "metepec"
+  },
+  {
+    "country": "MX",
+    "city": "jiutepec"
+  },
+  {
+    "country": "MX",
+    "city": "uruapan"
+  },
+  {
+    "country": "MX",
+    "city": "san_pedro_garza_garcia"
+  },
+  {
+    "country": "MX",
+    "city": "carmen"
+  },
+  {
+    "country": "MX",
+    "city": "monclova"
+  },
+  {
+    "country": "MX",
+    "city": "chilpancingo"
+  },
+  {
+    "country": "MX",
+    "city": "garcia"
+  },
+  {
+    "country": "MX",
+    "city": "tula_de_allende"
+  },
+  {
+    "country": "MX",
+    "city": "magdalena_contreras"
+  },
+  {
+    "country": "MX",
+    "city": "nuevo_laredo"
+  },
+  {
+    "country": "MX",
+    "city": "nogales"
+  },
+  {
+    "country": "MX",
+    "city": "azcapotzalco"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_del_carmen"
+  },
+  {
+    "country": "MX",
+    "city": "juchitán_de_zaragoza"
+  },
+  {
+    "country": "MX",
+    "city": "xochitepec"
+  },
+  {
+    "country": "MX",
+    "city": "tlajomulco_de_zuniga"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_nicolás_romero"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_de_villa_de_alvarez"
+  },
+  {
+    "country": "MX",
+    "city": "san_juan_del_río"
+  },
+  {
+    "country": "MX",
+    "city": "torreón"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_delicias"
+  },
+  {
+    "country": "MX",
+    "city": "tapachula"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_guadalupe_victoria"
+  },
+  {
+    "country": "MX",
+    "city": "general_escobedo"
+  },
+  {
+    "country": "MX",
+    "city": "salamanca"
+  },
+  {
+    "country": "MX",
+    "city": "tonala"
+  },
+  {
+    "country": "MX",
+    "city": "salina_cruz"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_madero"
+  },
+  {
+    "country": "MX",
+    "city": "colima"
+  },
+  {
+    "country": "MX",
+    "city": "zamora"
+  },
+  {
+    "country": "MX",
+    "city": "ciudad_valles"
+  },
+  {
+    "country": "MX",
+    "city": "navojoa"
+  },
+  {
+    "country": "MX",
+    "city": "venustiano_carranza"
+  },
+  {
+    "country": "MX",
+    "city": "chetumal"
+  },
+  {
+    "country": "MX",
+    "city": "san_jose_de_colima"
+  },
+  {
+    "country": "MX",
+    "city": "avante"
+  },
+  {
+    "country": "MX",
+    "city": "lagos_de_moreno"
+  },
+  {
+    "country": "MX",
+    "city": "benito_juarez"
+  },
+  {
+    "country": "MX",
+    "city": "xochimilco"
+  },
+  {
+    "country": "MX",
+    "city": "sahuayo_de_morelos"
+  },
+  {
+    "country": "MX",
+    "city": "cabo_san_lucas"
+  },
+  {
+    "country": "MX",
+    "city": "guasave"
+  },
+  {
+    "country": "MX",
+    "city": "san_luis_de_la_paz"
+  },
+  {
+    "country": "MX",
+    "city": "tulancingo"
+  },
+  {
+    "country": "MX",
+    "city": "escobedo"
+  },
+  {
+    "country": "MX",
+    "city": "general_zuazua"
+  },
+  {
+    "country": "MX",
+    "city": "fresnillo"
+  },
+  {
+    "country": "MY",
+    "city": "kuala_lumpur"
+  },
+  {
+    "country": "MY",
+    "city": "petaling_jaya"
+  },
+  {
+    "country": "MY",
+    "city": "kota_kinabalu"
+  },
+  {
+    "country": "MY",
+    "city": "err"
+  },
+  {
+    "country": "MY",
+    "city": "ipoh"
+  },
+  {
+    "country": "MY",
+    "city": "johor_bahru"
+  },
+  {
+    "country": "MY",
+    "city": "malacca"
+  },
+  {
+    "country": "MY",
+    "city": "seri_kembangan"
+  },
+  {
+    "country": "MY",
+    "city": "kuching"
+  },
+  {
+    "country": "MY",
+    "city": "george_town"
+  },
+  {
+    "country": "MY",
+    "city": "shah_alam"
+  },
+  {
+    "country": "MY",
+    "city": "puchong_batu_dua_belas"
+  },
+  {
+    "country": "MY",
+    "city": "seremban"
+  },
+  {
+    "country": "MY",
+    "city": "cheras"
+  },
+  {
+    "country": "MY",
+    "city": "marabu"
+  },
+  {
+    "country": "MY",
+    "city": "kajang"
+  },
+  {
+    "country": "MY",
+    "city": "sungai_buloh"
+  },
+  {
+    "country": "MZ",
+    "city": "maputo"
+  },
+  {
+    "country": "NA",
+    "city": "windhoek"
+  },
+  {
+    "country": "NG",
+    "city": "lagos"
+  },
+  {
+    "country": "NG",
+    "city": "suleja"
+  },
+  {
+    "country": "NG",
+    "city": "abuja"
+  },
+  {
+    "country": "NI",
+    "city": "managua"
+  },
+  {
+    "country": "NL",
+    "city": "amsterdam"
+  },
+  {
+    "country": "NL",
+    "city": "rotterdam"
+  },
+  {
+    "country": "NO",
+    "city": "oslo"
+  },
+  {
+    "country": "NP",
+    "city": "kathmandu"
+  },
+  {
+    "country": "NP",
+    "city": "err"
+  },
+  {
+    "country": "NP",
+    "city": "pokhara"
+  },
+  {
+    "country": "NP",
+    "city": "butwal"
+  },
+  {
+    "country": "NP",
+    "city": "titahari"
+  },
+  {
+    "country": "NP",
+    "city": "chandra_garhi"
+  },
+  {
+    "country": "NZ",
+    "city": "auckland"
+  },
+  {
+    "country": "OM",
+    "city": "muscat"
+  },
+  {
+    "country": "PA",
+    "city": "panama_city"
+  },
+  {
+    "country": "PA",
+    "city": "david"
+  },
+  {
+    "country": "PA",
+    "city": "la_chorrera"
+  },
+  {
+    "country": "PA",
+    "city": "chitré"
+  },
+  {
+    "country": "PE",
+    "city": "lima"
+  },
+  {
+    "country": "PE",
+    "city": "arequipa"
+  },
+  {
+    "country": "PE",
+    "city": "trujillo"
+  },
+  {
+    "country": "PE",
+    "city": "chiclayo"
+  },
+  {
+    "country": "PE",
+    "city": "err"
+  },
+  {
+    "country": "PE",
+    "city": "buena_vista"
+  },
+  {
+    "country": "PE",
+    "city": "cusco"
+  },
+  {
+    "country": "PE",
+    "city": "tacna"
+  },
+  {
+    "country": "PE",
+    "city": "la_victoria"
+  },
+  {
+    "country": "PE",
+    "city": "piura"
+  },
+  {
+    "country": "PE",
+    "city": "cajamarca"
+  },
+  {
+    "country": "PE",
+    "city": "huancayo"
+  },
+  {
+    "country": "PE",
+    "city": "juliaca"
+  },
+  {
+    "country": "PE",
+    "city": "huaraz"
+  },
+  {
+    "country": "PE",
+    "city": "callao"
+  },
+  {
+    "country": "PE",
+    "city": "ica"
+  },
+  {
+    "country": "PE",
+    "city": "ilo"
+  },
+  {
+    "country": "PE",
+    "city": "tarapoto"
+  },
+  {
+    "country": "PH",
+    "city": "quezon_city"
+  },
+  {
+    "country": "PH",
+    "city": "cebu_city"
+  },
+  {
+    "country": "PH",
+    "city": "imus"
+  },
+  {
+    "country": "PH",
+    "city": "baguio_city"
+  },
+  {
+    "country": "PH",
+    "city": "err"
+  },
+  {
+    "country": "PH",
+    "city": "makati_city"
+  },
+  {
+    "country": "PH",
+    "city": "manila"
+  },
+  {
+    "country": "PH",
+    "city": "davao_city"
+  },
+  {
+    "country": "PH",
+    "city": "bacoor"
+  },
+  {
+    "country": "PH",
+    "city": "angeles_city"
+  },
+  {
+    "country": "PH",
+    "city": "cagayan_de_oro"
+  },
+  {
+    "country": "PH",
+    "city": "pasig"
+  },
+  {
+    "country": "PH",
+    "city": "mandaluyong_city"
+  },
+  {
+    "country": "PH",
+    "city": "paranaque_city"
+  },
+  {
+    "country": "PH",
+    "city": "san_miguel"
+  },
+  {
+    "country": "PH",
+    "city": "lipa_city"
+  },
+  {
+    "country": "PH",
+    "city": "batangas"
+  },
+  {
+    "country": "PH",
+    "city": "santa_rosa"
+  },
+  {
+    "country": "PH",
+    "city": "valenzuela"
+  },
+  {
+    "country": "PH",
+    "city": "caloocan_city"
+  },
+  {
+    "country": "PH",
+    "city": "quezon"
+  },
+  {
+    "country": "PH",
+    "city": "adlaon"
+  },
+  {
+    "country": "PH",
+    "city": "culiat"
+  },
+  {
+    "country": "PH",
+    "city": "taguig"
+  },
+  {
+    "country": "PH",
+    "city": "city_of_muntinglupa"
+  },
+  {
+    "country": "PH",
+    "city": "binan"
+  },
+  {
+    "country": "PH",
+    "city": "lucena_city"
+  },
+  {
+    "country": "PH",
+    "city": "general_santos"
+  },
+  {
+    "country": "PH",
+    "city": "san_fernando"
+  },
+  {
+    "country": "PH",
+    "city": "iloilo_city"
+  },
+  {
+    "country": "PH",
+    "city": "las_pinas"
+  },
+  {
+    "country": "PH",
+    "city": "binondo"
+  },
+  {
+    "country": "PH",
+    "city": "cavite_city"
+  },
+  {
+    "country": "PH",
+    "city": "bagumbayan"
+  },
+  {
+    "country": "PH",
+    "city": "cembo"
+  },
+  {
+    "country": "PH",
+    "city": "calamba"
+  },
+  {
+    "country": "PH",
+    "city": "marikina_city"
+  },
+  {
+    "country": "PH",
+    "city": "dagupan"
+  },
+  {
+    "country": "PH",
+    "city": "naga"
+  },
+  {
+    "country": "PH",
+    "city": "bacolod_city"
+  },
+  {
+    "country": "PH",
+    "city": "dasmarinas"
+  },
+  {
+    "country": "PH",
+    "city": "iligan_city"
+  },
+  {
+    "country": "PH",
+    "city": "baliuag"
+  },
+  {
+    "country": "PH",
+    "city": "tagbilaran"
+  },
+  {
+    "country": "PH",
+    "city": "adya"
+  },
+  {
+    "country": "PH",
+    "city": "digos"
+  },
+  {
+    "country": "PH",
+    "city": "bulacan"
+  },
+  {
+    "country": "PH",
+    "city": "ozamiz"
+  },
+  {
+    "country": "PH",
+    "city": "marilao"
+  },
+  {
+    "country": "PH",
+    "city": "kamuning"
+  },
+  {
+    "country": "PH",
+    "city": "general_trias"
+  },
+  {
+    "country": "PH",
+    "city": "olongapo_city"
+  },
+  {
+    "country": "PH",
+    "city": "tarlac_city"
+  },
+  {
+    "country": "PH",
+    "city": "san_jose_del_monte"
+  },
+  {
+    "country": "PH",
+    "city": "san_pedro"
+  },
+  {
+    "country": "PH",
+    "city": "san_pablo_city"
+  },
+  {
+    "country": "PH",
+    "city": "cainta"
+  },
+  {
+    "country": "PH",
+    "city": "legazpi"
+  },
+  {
+    "country": "PH",
+    "city": "los_banos"
+  },
+  {
+    "country": "PH",
+    "city": "bagbaguin"
+  },
+  {
+    "country": "PH",
+    "city": "mabalacat"
+  },
+  {
+    "country": "PH",
+    "city": "zamboanga_city"
+  },
+  {
+    "country": "PH",
+    "city": "antipolo_city"
+  },
+  {
+    "country": "PH",
+    "city": "malolos"
+  },
+  {
+    "country": "PH",
+    "city": "manajao"
+  },
+  {
+    "country": "PH",
+    "city": "taytay"
+  },
+  {
+    "country": "PH",
+    "city": "butuan"
+  },
+  {
+    "country": "PH",
+    "city": "kalibo_town"
+  },
+  {
+    "country": "PH",
+    "city": "vergara"
+  },
+  {
+    "country": "PH",
+    "city": "ormoc_city"
+  },
+  {
+    "country": "PH",
+    "city": "meycauayan"
+  },
+  {
+    "country": "PH",
+    "city": "san_juan"
+  },
+  {
+    "country": "PH",
+    "city": "talisay_city"
+  },
+  {
+    "country": "PH",
+    "city": "plaridel"
+  },
+  {
+    "country": "PH",
+    "city": "guiguinto"
+  },
+  {
+    "country": "PH",
+    "city": "del_rosario"
+  },
+  {
+    "country": "PH",
+    "city": "guagua"
+  },
+  {
+    "country": "PH",
+    "city": "alangilan"
+  },
+  {
+    "country": "PH",
+    "city": "talavera"
+  },
+  {
+    "country": "PH",
+    "city": "santa_cruz"
+  },
+  {
+    "country": "PK",
+    "city": "karachi"
+  },
+  {
+    "country": "PK",
+    "city": "lahore"
+  },
+  {
+    "country": "PK",
+    "city": "rawalpindi"
+  },
+  {
+    "country": "PK",
+    "city": "islamabad"
+  },
+  {
+    "country": "PK",
+    "city": "faisalabad"
+  },
+  {
+    "country": "PK",
+    "city": "err"
+  },
+  {
+    "country": "PK",
+    "city": "peshawar"
+  },
+  {
+    "country": "PK",
+    "city": "multan"
+  },
+  {
+    "country": "PK",
+    "city": "gujranwala"
+  },
+  {
+    "country": "PK",
+    "city": "sialkot"
+  },
+  {
+    "country": "PK",
+    "city": "hyderabad"
+  },
+  {
+    "country": "PK",
+    "city": "quetta"
+  },
+  {
+    "country": "PK",
+    "city": "sargodha"
+  },
+  {
+    "country": "PL",
+    "city": "warsaw"
+  },
+  {
+    "country": "PL",
+    "city": "err"
+  },
+  {
+    "country": "PL",
+    "city": "poznan"
+  },
+  {
+    "country": "PL",
+    "city": "wrocław"
+  },
+  {
+    "country": "PL",
+    "city": "łódź"
+  },
+  {
+    "country": "PL",
+    "city": "krakow"
+  },
+  {
+    "country": "PL",
+    "city": "katowice"
+  },
+  {
+    "country": "PL",
+    "city": "lublin"
+  },
+  {
+    "country": "PL",
+    "city": "zabrze"
+  },
+  {
+    "country": "PL",
+    "city": "gdańsk"
+  },
+  {
+    "country": "PR",
+    "city": "san_juan"
+  },
+  {
+    "country": "PR",
+    "city": "bayamón"
+  },
+  {
+    "country": "PR",
+    "city": "guaynabo"
+  },
+  {
+    "country": "PT",
+    "city": "lisbon"
+  },
+  {
+    "country": "PT",
+    "city": "porto"
+  },
+  {
+    "country": "PT",
+    "city": "vila_nova_de_gaia"
+  },
+  {
+    "country": "PT",
+    "city": "coimbra"
+  },
+  {
+    "country": "PT",
+    "city": "viana_do_castelo"
+  },
+  {
+    "country": "PY",
+    "city": "asunción"
+  },
+  {
+    "country": "PY",
+    "city": "err"
+  },
+  {
+    "country": "PY",
+    "city": "ciudad_del_este"
+  },
+  {
+    "country": "PY",
+    "city": "capiatá"
+  },
+  {
+    "country": "PY",
+    "city": "san_lorenzo"
+  },
+  {
+    "country": "PY",
+    "city": "fernando_de_la_mora"
+  },
+  {
+    "country": "PY",
+    "city": "encarnación"
+  },
+  {
+    "country": "QA",
+    "city": "doha"
+  },
+  {
+    "country": "RO",
+    "city": "bucharest"
+  },
+  {
+    "country": "RO",
+    "city": "err"
+  },
+  {
+    "country": "RO",
+    "city": "cluj_napoca"
+  },
+  {
+    "country": "RO",
+    "city": "timișoara"
+  },
+  {
+    "country": "RO",
+    "city": "brasov"
+  },
+  {
+    "country": "RO",
+    "city": "ploieşti"
+  },
+  {
+    "country": "RO",
+    "city": "craiova"
+  },
+  {
+    "country": "RO",
+    "city": "iasi"
+  },
+  {
+    "country": "RO",
+    "city": "arad"
+  },
+  {
+    "country": "RO",
+    "city": "oradea"
+  },
+  {
+    "country": "RO",
+    "city": "constanța"
+  },
+  {
+    "country": "RO",
+    "city": "galati"
+  },
+  {
+    "country": "RO",
+    "city": "slatina"
+  },
+  {
+    "country": "RO",
+    "city": "piteşti"
+  },
+  {
+    "country": "RO",
+    "city": "târgu_mureş"
+  },
+  {
+    "country": "RO",
+    "city": "satu_mare"
+  },
+  {
+    "country": "RO",
+    "city": "baia_mare"
+  },
+  {
+    "country": "RO",
+    "city": "sibiu"
+  },
+  {
+    "country": "RO",
+    "city": "alexandria"
+  },
+  {
+    "country": "RO",
+    "city": "bacau"
+  },
+  {
+    "country": "RO",
+    "city": "braila"
+  },
+  {
+    "country": "RO",
+    "city": "buzau"
+  },
+  {
+    "country": "RO",
+    "city": "piatra_neamţ"
+  },
+  {
+    "country": "RO",
+    "city": "suceava"
+  },
+  {
+    "country": "RO",
+    "city": "drobeta_turnu_severin"
+  },
+  {
+    "country": "RO",
+    "city": "mediaş"
+  },
+  {
+    "country": "RO",
+    "city": "târgu_jiu"
+  },
+  {
+    "country": "RO",
+    "city": "valcea"
+  },
+  {
+    "country": "RO",
+    "city": "deva"
+  },
+  {
+    "country": "RO",
+    "city": "reşiţa"
+  },
+  {
+    "country": "RO",
+    "city": "botosani"
+  },
+  {
+    "country": "RO",
+    "city": "sighetu_marmaţiei"
+  },
+  {
+    "country": "RS",
+    "city": "belgrade"
+  },
+  {
+    "country": "RS",
+    "city": "err"
+  },
+  {
+    "country": "RS",
+    "city": "niš"
+  },
+  {
+    "country": "RS",
+    "city": "novi_sad"
+  },
+  {
+    "country": "RS",
+    "city": "kragujevac"
+  },
+  {
+    "country": "RU",
+    "city": "moscow"
+  },
+  {
+    "country": "RU",
+    "city": "st_petersburg"
+  },
+  {
+    "country": "RU",
+    "city": "ufa"
+  },
+  {
+    "country": "RU",
+    "city": "krasnodar"
+  },
+  {
+    "country": "RU",
+    "city": "ekaterinburg"
+  },
+  {
+    "country": "RU",
+    "city": "kazan’"
+  },
+  {
+    "country": "RU",
+    "city": "err"
+  },
+  {
+    "country": "RU",
+    "city": "volgograd"
+  },
+  {
+    "country": "RU",
+    "city": "rostov_on_don"
+  },
+  {
+    "country": "RU",
+    "city": "nizhniy_novgorod"
+  },
+  {
+    "country": "RU",
+    "city": "novosibirsk"
+  },
+  {
+    "country": "RU",
+    "city": "perm"
+  },
+  {
+    "country": "RU",
+    "city": "voronezh"
+  },
+  {
+    "country": "RU",
+    "city": "barnaul"
+  },
+  {
+    "country": "RU",
+    "city": "omsk"
+  },
+  {
+    "country": "RU",
+    "city": "chelyabinsk"
+  },
+  {
+    "country": "RU",
+    "city": "cheboksary"
+  },
+  {
+    "country": "RU",
+    "city": "orenburg"
+  },
+  {
+    "country": "RU",
+    "city": "samara"
+  },
+  {
+    "country": "RU",
+    "city": "stavropol"
+  },
+  {
+    "country": "RU",
+    "city": "saratov"
+  },
+  {
+    "country": "RU",
+    "city": "tyumen"
+  },
+  {
+    "country": "RU",
+    "city": "ulyanovsk"
+  },
+  {
+    "country": "RU",
+    "city": "penza"
+  },
+  {
+    "country": "RU",
+    "city": "ryazan"
+  },
+  {
+    "country": "RU",
+    "city": "krasnoyarsk"
+  },
+  {
+    "country": "RU",
+    "city": "izhevsk"
+  },
+  {
+    "country": "RU",
+    "city": "kemerovo"
+  },
+  {
+    "country": "RU",
+    "city": "kirov"
+  },
+  {
+    "country": "RU",
+    "city": "tomsk"
+  },
+  {
+    "country": "RU",
+    "city": "naberezhnyye_chelny"
+  },
+  {
+    "country": "RU",
+    "city": "ivanovo"
+  },
+  {
+    "country": "RU",
+    "city": "tver"
+  },
+  {
+    "country": "RU",
+    "city": "syktyvkar"
+  },
+  {
+    "country": "RU",
+    "city": "kaluga"
+  },
+  {
+    "country": "RU",
+    "city": "kursk"
+  },
+  {
+    "country": "RU",
+    "city": "tambov"
+  },
+  {
+    "country": "RU",
+    "city": "lipetsk"
+  },
+  {
+    "country": "RU",
+    "city": "pyatigorsk"
+  },
+  {
+    "country": "RU",
+    "city": "bryansk"
+  },
+  {
+    "country": "RU",
+    "city": "yoshkar_ola"
+  },
+  {
+    "country": "RU",
+    "city": "belgorod"
+  },
+  {
+    "country": "RU",
+    "city": "vladivostok"
+  },
+  {
+    "country": "RU",
+    "city": "irkutsk"
+  },
+  {
+    "country": "RU",
+    "city": "smolensk"
+  },
+  {
+    "country": "RU",
+    "city": "tolyatti"
+  },
+  {
+    "country": "RU",
+    "city": "yaroslavl"
+  },
+  {
+    "country": "RU",
+    "city": "kostroma"
+  },
+  {
+    "country": "RU",
+    "city": "chita"
+  },
+  {
+    "country": "RU",
+    "city": "khabarovsk"
+  },
+  {
+    "country": "RU",
+    "city": "tula"
+  },
+  {
+    "country": "RU",
+    "city": "vladimir"
+  },
+  {
+    "country": "RU",
+    "city": "surgut"
+  },
+  {
+    "country": "RU",
+    "city": "arkhangelsk"
+  },
+  {
+    "country": "RU",
+    "city": "kaliningrad"
+  },
+  {
+    "country": "RU",
+    "city": "yakutsk"
+  },
+  {
+    "country": "RU",
+    "city": "astrakhan"
+  },
+  {
+    "country": "RU",
+    "city": "murmansk"
+  },
+  {
+    "country": "RU",
+    "city": "makhachkala"
+  },
+  {
+    "country": "RU",
+    "city": "saransk"
+  },
+  {
+    "country": "RU",
+    "city": "sochi"
+  },
+  {
+    "country": "RU",
+    "city": "petrozavodsk"
+  },
+  {
+    "country": "RU",
+    "city": "ulan_ude"
+  },
+  {
+    "country": "RU",
+    "city": "yelabuga"
+  },
+  {
+    "country": "RU",
+    "city": "podolsk"
+  },
+  {
+    "country": "RU",
+    "city": "abakan"
+  },
+  {
+    "country": "RU",
+    "city": "gorno_altaysk"
+  },
+  {
+    "country": "RU",
+    "city": "komsomolsk_on_amur"
+  },
+  {
+    "country": "RU",
+    "city": "vologda"
+  },
+  {
+    "country": "RU",
+    "city": "vladikavkaz"
+  },
+  {
+    "country": "RU",
+    "city": "nevinnomyssk"
+  },
+  {
+    "country": "RU",
+    "city": "blagoveshchensk"
+  },
+  {
+    "country": "RU",
+    "city": "novokuznetsk"
+  },
+  {
+    "country": "RU",
+    "city": "cherepovets"
+  },
+  {
+    "country": "RU",
+    "city": "mytishchi"
+  },
+  {
+    "country": "RW",
+    "city": "kigali"
+  },
+  {
+    "country": "RW",
+    "city": "err"
+  },
+  {
+    "country": "SA",
+    "city": "riyadh"
+  },
+  {
+    "country": "SA",
+    "city": "jeddah"
+  },
+  {
+    "country": "SA",
+    "city": "dammam"
+  },
+  {
+    "country": "SA",
+    "city": "khobar"
+  },
+  {
+    "country": "SA",
+    "city": "err"
+  },
+  {
+    "country": "SA",
+    "city": "makkah"
+  },
+  {
+    "country": "SA",
+    "city": "al_hufuf"
+  },
+  {
+    "country": "SA",
+    "city": "buraidah"
+  },
+  {
+    "country": "SD",
+    "city": "err"
+  },
+  {
+    "country": "SG",
+    "city": "singapore"
+  },
+  {
+    "country": "SG",
+    "city": "jurong_west_new_town"
+  },
+  {
+    "country": "SI",
+    "city": "ljubljana"
+  },
+  {
+    "country": "SK",
+    "city": "bratislava"
+  },
+  {
+    "country": "SN",
+    "city": "dakar"
+  },
+  {
+    "country": "SN",
+    "city": "err"
+  },
+  {
+    "country": "SO",
+    "city": "hargeisa"
+  },
+  {
+    "country": "SO",
+    "city": "mogadishu"
+  },
+  {
+    "country": "SR",
+    "city": "paramaribo"
+  },
+  {
+    "country": "SV",
+    "city": "san_salvador"
+  },
+  {
+    "country": "SV",
+    "city": "santa_ana"
+  },
+  {
+    "country": "SV",
+    "city": "san_miguel"
+  },
+  {
+    "country": "SV",
+    "city": "soyapango"
+  },
+  {
+    "country": "SV",
+    "city": "apopa"
+  },
+  {
+    "country": "SY",
+    "city": "err"
+  },
+  {
+    "country": "TG",
+    "city": "lomé"
+  },
+  {
+    "country": "TG",
+    "city": "err"
+  },
+  {
+    "country": "TH",
+    "city": "bangkok"
+  },
+  {
+    "country": "TH",
+    "city": "nakhon_ratchasima"
+  },
+  {
+    "country": "TH",
+    "city": "phitsanulok"
+  },
+  {
+    "country": "TH",
+    "city": "chiang_mai"
+  },
+  {
+    "country": "TH",
+    "city": "khon_kaen"
+  },
+  {
+    "country": "TH",
+    "city": "nakhon_pathom"
+  },
+  {
+    "country": "TH",
+    "city": "ban_phan_don"
+  },
+  {
+    "country": "TH",
+    "city": "phuket"
+  },
+  {
+    "country": "TH",
+    "city": "err"
+  },
+  {
+    "country": "TH",
+    "city": "bang_lamung"
+  },
+  {
+    "country": "TH",
+    "city": "surat_thani"
+  },
+  {
+    "country": "TH",
+    "city": "nakhon_sawan"
+  },
+  {
+    "country": "TH",
+    "city": "lopburi"
+  },
+  {
+    "country": "TH",
+    "city": "udon_thani"
+  },
+  {
+    "country": "TH",
+    "city": "songkhla"
+  },
+  {
+    "country": "TH",
+    "city": "chon_buri"
+  },
+  {
+    "country": "TH",
+    "city": "thanyaburi"
+  },
+  {
+    "country": "TH",
+    "city": "trang"
+  },
+  {
+    "country": "TH",
+    "city": "nonthaburi"
+  },
+  {
+    "country": "TH",
+    "city": "prathai"
+  },
+  {
+    "country": "TH",
+    "city": "ayutthaya"
+  },
+  {
+    "country": "TH",
+    "city": "bang_klam"
+  },
+  {
+    "country": "TH",
+    "city": "pattaya"
+  },
+  {
+    "country": "TH",
+    "city": "rayong"
+  },
+  {
+    "country": "TH",
+    "city": "samut_sakhon"
+  },
+  {
+    "country": "TH",
+    "city": "si_sa_ket"
+  },
+  {
+    "country": "TH",
+    "city": "pattani"
+  },
+  {
+    "country": "TH",
+    "city": "lampang"
+  },
+  {
+    "country": "TH",
+    "city": "yala"
+  },
+  {
+    "country": "TH",
+    "city": "saraburi"
+  },
+  {
+    "country": "TJ",
+    "city": "dushanbe"
+  },
+  {
+    "country": "TN",
+    "city": "err"
+  },
+  {
+    "country": "TN",
+    "city": "tunis"
+  },
+  {
+    "country": "TN",
+    "city": "sousse"
+  },
+  {
+    "country": "TN",
+    "city": "aryanah"
+  },
+  {
+    "country": "TR",
+    "city": "istanbul"
+  },
+  {
+    "country": "TR",
+    "city": "ankara"
+  },
+  {
+    "country": "TR",
+    "city": "antalya"
+  },
+  {
+    "country": "TR",
+    "city": "izmir"
+  },
+  {
+    "country": "TR",
+    "city": "err"
+  },
+  {
+    "country": "TR",
+    "city": "bursa"
+  },
+  {
+    "country": "TR",
+    "city": "antakya"
+  },
+  {
+    "country": "TR",
+    "city": "adana"
+  },
+  {
+    "country": "TR",
+    "city": "konya"
+  },
+  {
+    "country": "TT",
+    "city": "err"
+  },
+  {
+    "country": "TT",
+    "city": "port_of_spain"
+  },
+  {
+    "country": "TT",
+    "city": "san_fernando"
+  },
+  {
+    "country": "TT",
+    "city": "chaguanas"
+  },
+  {
+    "country": "TW",
+    "city": "taipei"
+  },
+  {
+    "country": "TW",
+    "city": "taichung"
+  },
+  {
+    "country": "TW",
+    "city": "kaohsiung_city"
+  },
+  {
+    "country": "TW",
+    "city": "chang_hua"
+  },
+  {
+    "country": "TW",
+    "city": "taoyuan_district"
+  },
+  {
+    "country": "TW",
+    "city": "keelung"
+  },
+  {
+    "country": "TW",
+    "city": "hsinchu"
+  },
+  {
+    "country": "TW",
+    "city": "tainan_city"
+  },
+  {
+    "country": "TW",
+    "city": "miaoli"
+  },
+  {
+    "country": "TW",
+    "city": "err"
+  },
+  {
+    "country": "TZ",
+    "city": "dar_es_salaam"
+  },
+  {
+    "country": "UA",
+    "city": "kyiv"
+  },
+  {
+    "country": "UA",
+    "city": "err"
+  },
+  {
+    "country": "UA",
+    "city": "kharkiv"
+  },
+  {
+    "country": "UA",
+    "city": "lviv"
+  },
+  {
+    "country": "UA",
+    "city": "odesa"
+  },
+  {
+    "country": "UA",
+    "city": "dnipro"
+  },
+  {
+    "country": "UA",
+    "city": "donetsk"
+  },
+  {
+    "country": "UA",
+    "city": "zaporizhia"
+  },
+  {
+    "country": "UA",
+    "city": "mariupol"
+  },
+  {
+    "country": "UA",
+    "city": "kryvyy_rih"
+  },
+  {
+    "country": "UA",
+    "city": "mykolayiv"
+  },
+  {
+    "country": "UA",
+    "city": "luhansk"
+  },
+  {
+    "country": "UA",
+    "city": "makiyivka"
+  },
+  {
+    "country": "UA",
+    "city": "vinnytsia"
+  },
+  {
+    "country": "UA",
+    "city": "kherson"
+  },
+  {
+    "country": "UA",
+    "city": "chernivtsi"
+  },
+  {
+    "country": "UA",
+    "city": "poltava"
+  },
+  {
+    "country": "UA",
+    "city": "kropyvnytskyi"
+  },
+  {
+    "country": "UA",
+    "city": "rivne"
+  },
+  {
+    "country": "UA",
+    "city": "zhytomyr"
+  },
+  {
+    "country": "UA",
+    "city": "kremenchuk"
+  },
+  {
+    "country": "UA",
+    "city": "cherkasy"
+  },
+  {
+    "country": "UA",
+    "city": "khmelnytskyi"
+  },
+  {
+    "country": "UA",
+    "city": "ternopil"
+  },
+  {
+    "country": "UA",
+    "city": "sloviansk"
+  },
+  {
+    "country": "UA",
+    "city": "chernihiv"
+  },
+  {
+    "country": "UA",
+    "city": "kamianske"
+  },
+  {
+    "country": "UA",
+    "city": "horlivka"
+  },
+  {
+    "country": "UA",
+    "city": "sumy"
+  },
+  {
+    "country": "UA",
+    "city": "simferopol"
+  },
+  {
+    "country": "UA",
+    "city": "nikopol"
+  },
+  {
+    "country": "UA",
+    "city": "kramatorsk"
+  },
+  {
+    "country": "UA",
+    "city": "lutsk"
+  },
+  {
+    "country": "UA",
+    "city": "alchevsk"
+  },
+  {
+    "country": "UA",
+    "city": "melitopol"
+  },
+  {
+    "country": "UA",
+    "city": "syeverodonetsk"
+  },
+  {
+    "country": "UA",
+    "city": "lisichansk"
+  },
+  {
+    "country": "UA",
+    "city": "pavlohrad"
+  },
+  {
+    "country": "UA",
+    "city": "bila_tserkva"
+  },
+  {
+    "country": "UA",
+    "city": "sevastopol"
+  },
+  {
+    "country": "UA",
+    "city": "drohobych"
+  },
+  {
+    "country": "UA",
+    "city": "vynohradiv"
+  },
+  {
+    "country": "UA",
+    "city": "zakotnoye"
+  },
+  {
+    "country": "UA",
+    "city": "rovenki"
+  },
+  {
+    "country": "UA",
+    "city": "berdyansk"
+  },
+  {
+    "country": "UA",
+    "city": "kalush"
+  },
+  {
+    "country": "UA",
+    "city": "kolomyia"
+  },
+  {
+    "country": "UA",
+    "city": "mukacheve"
+  },
+  {
+    "country": "UA",
+    "city": "mogilëv"
+  },
+  {
+    "country": "UA",
+    "city": "kelmentsi"
+  },
+  {
+    "country": "UA",
+    "city": "zhmerynka"
+  },
+  {
+    "country": "UA",
+    "city": "dubno"
+  },
+  {
+    "country": "UA",
+    "city": "sorokyne"
+  },
+  {
+    "country": "UA",
+    "city": "vasylkiv"
+  },
+  {
+    "country": "UA",
+    "city": "izmail"
+  },
+  {
+    "country": "UA",
+    "city": "irpin"
+  },
+  {
+    "country": "UA",
+    "city": "uzhhorod"
+  },
+  {
+    "country": "UA",
+    "city": "kupiansk"
+  },
+  {
+    "country": "UA",
+    "city": "kovel"
+  },
+  {
+    "country": "UA",
+    "city": "brovary"
+  },
+  {
+    "country": "UA",
+    "city": "smila"
+  },
+  {
+    "country": "UA",
+    "city": "energodar"
+  },
+  {
+    "country": "UA",
+    "city": "bryanka"
+  },
+  {
+    "country": "UA",
+    "city": "krasne"
+  },
+  {
+    "country": "UG",
+    "city": "kampala"
+  },
+  {
+    "country": "UG",
+    "city": "err"
+  },
+  {
+    "country": "US",
+    "city": "compton"
+  },
+  {
+    "country": "US",
+    "city": "err"
+  },
+  {
+    "country": "US",
+    "city": "fort_lauderdale"
+  },
+  {
+    "country": "US",
+    "city": "new_york"
+  },
+  {
+    "country": "US",
+    "city": "san_francisco"
+  },
+  {
+    "country": "US",
+    "city": "denver"
+  },
+  {
+    "country": "US",
+    "city": "hayward"
+  },
+  {
+    "country": "US",
+    "city": "chicago"
+  },
+  {
+    "country": "US",
+    "city": "miami"
+  },
+  {
+    "country": "US",
+    "city": "detroit"
+  },
+  {
+    "country": "US",
+    "city": "san_diego"
+  },
+  {
+    "country": "US",
+    "city": "memphis"
+  },
+  {
+    "country": "US",
+    "city": "oakland"
+  },
+  {
+    "country": "US",
+    "city": "houston"
+  },
+  {
+    "country": "US",
+    "city": "philadelphia"
+  },
+  {
+    "country": "US",
+    "city": "orlando"
+  },
+  {
+    "country": "US",
+    "city": "tampa"
+  },
+  {
+    "country": "US",
+    "city": "brooklyn"
+  },
+  {
+    "country": "US",
+    "city": "the_bronx"
+  },
+  {
+    "country": "US",
+    "city": "san_antonio"
+  },
+  {
+    "country": "US",
+    "city": "dallas"
+  },
+  {
+    "country": "US",
+    "city": "columbus"
+  },
+  {
+    "country": "US",
+    "city": "jacksonville"
+  },
+  {
+    "country": "US",
+    "city": "las_vegas"
+  },
+  {
+    "country": "US",
+    "city": "baltimore"
+  },
+  {
+    "country": "US",
+    "city": "cleveland"
+  },
+  {
+    "country": "US",
+    "city": "los_angeles"
+  },
+  {
+    "country": "US",
+    "city": "cincinnati"
+  },
+  {
+    "country": "US",
+    "city": "indianapolis"
+  },
+  {
+    "country": "US",
+    "city": "springfield"
+  },
+  {
+    "country": "US",
+    "city": "atlanta"
+  },
+  {
+    "country": "US",
+    "city": "buffalo"
+  },
+  {
+    "country": "US",
+    "city": "el_paso"
+  },
+  {
+    "country": "US",
+    "city": "portland"
+  },
+  {
+    "country": "US",
+    "city": "rochester"
+  },
+  {
+    "country": "US",
+    "city": "phoenix"
+  },
+  {
+    "country": "US",
+    "city": "omaha"
+  },
+  {
+    "country": "US",
+    "city": "st_louis"
+  },
+  {
+    "country": "US",
+    "city": "milwaukee"
+  },
+  {
+    "country": "US",
+    "city": "jamaica"
+  },
+  {
+    "country": "US",
+    "city": "newark"
+  },
+  {
+    "country": "US",
+    "city": "clifford"
+  },
+  {
+    "country": "US",
+    "city": "seattle"
+  },
+  {
+    "country": "US",
+    "city": "grand_island"
+  },
+  {
+    "country": "US",
+    "city": "minneapolis"
+  },
+  {
+    "country": "US",
+    "city": "syracuse"
+  },
+  {
+    "country": "US",
+    "city": "pittsburgh"
+  },
+  {
+    "country": "US",
+    "city": "st_petersburg"
+  },
+  {
+    "country": "US",
+    "city": "tucson"
+  },
+  {
+    "country": "US",
+    "city": "reading"
+  },
+  {
+    "country": "US",
+    "city": "sacramento"
+  },
+  {
+    "country": "US",
+    "city": "san_jose"
+  },
+  {
+    "country": "US",
+    "city": "lake_saint_louis"
+  },
+  {
+    "country": "US",
+    "city": "montgomery"
+  },
+  {
+    "country": "US",
+    "city": "charlotte"
+  },
+  {
+    "country": "US",
+    "city": "dayton"
+  },
+  {
+    "country": "US",
+    "city": "hialeah"
+  },
+  {
+    "country": "US",
+    "city": "kissimmee"
+  },
+  {
+    "country": "US",
+    "city": "warren"
+  },
+  {
+    "country": "US",
+    "city": "pompano_beach"
+  },
+  {
+    "country": "US",
+    "city": "monroe"
+  },
+  {
+    "country": "US",
+    "city": "fayetteville"
+  },
+  {
+    "country": "US",
+    "city": "austin"
+  },
+  {
+    "country": "US",
+    "city": "portsmouth"
+  },
+  {
+    "country": "US",
+    "city": "albany"
+  },
+  {
+    "country": "US",
+    "city": "albuquerque"
+  },
+  {
+    "country": "US",
+    "city": "lakeland"
+  },
+  {
+    "country": "US",
+    "city": "fresno"
+  },
+  {
+    "country": "US",
+    "city": "richmond"
+  },
+  {
+    "country": "US",
+    "city": "birmingham"
+  },
+  {
+    "country": "US",
+    "city": "chesterfield"
+  },
+  {
+    "country": "US",
+    "city": "wilmington"
+  },
+  {
+    "country": "US",
+    "city": "washington"
+  },
+  {
+    "country": "US",
+    "city": "chandler"
+  },
+  {
+    "country": "US",
+    "city": "staten_island"
+  },
+  {
+    "country": "US",
+    "city": "waterbury"
+  },
+  {
+    "country": "US",
+    "city": "anderson"
+  },
+  {
+    "country": "US",
+    "city": "bakersfield"
+  },
+  {
+    "country": "US",
+    "city": "west_palm_beach"
+  },
+  {
+    "country": "US",
+    "city": "riverside"
+  },
+  {
+    "country": "US",
+    "city": "madison"
+  },
+  {
+    "country": "US",
+    "city": "kansas_city"
+  },
+  {
+    "country": "US",
+    "city": "bridgeport"
+  },
+  {
+    "country": "US",
+    "city": "columbia"
+  },
+  {
+    "country": "US",
+    "city": "lancaster"
+  },
+  {
+    "country": "US",
+    "city": "honolulu"
+  },
+  {
+    "country": "US",
+    "city": "cypress"
+  },
+  {
+    "country": "US",
+    "city": "delafield"
+  },
+  {
+    "country": "US",
+    "city": "utica"
+  },
+  {
+    "country": "US",
+    "city": "hartford"
+  },
+  {
+    "country": "US",
+    "city": "norfolk"
+  },
+  {
+    "country": "US",
+    "city": "henderson"
+  },
+  {
+    "country": "US",
+    "city": "louisville"
+  },
+  {
+    "country": "US",
+    "city": "escondido"
+  },
+  {
+    "country": "US",
+    "city": "schenectady"
+  },
+  {
+    "country": "US",
+    "city": "nashville"
+  },
+  {
+    "country": "US",
+    "city": "tallahassee"
+  },
+  {
+    "country": "US",
+    "city": "new_haven"
+  },
+  {
+    "country": "US",
+    "city": "fort_worth"
+  },
+  {
+    "country": "US",
+    "city": "allentown"
+  },
+  {
+    "country": "US",
+    "city": "augusta"
+  },
+  {
+    "country": "US",
+    "city": "cape_coral"
+  },
+  {
+    "country": "US",
+    "city": "lexington"
+  },
+  {
+    "country": "US",
+    "city": "long_beach"
+  },
+  {
+    "country": "US",
+    "city": "middletown"
+  },
+  {
+    "country": "US",
+    "city": "harrisburg"
+  },
+  {
+    "country": "US",
+    "city": "anaheim"
+  },
+  {
+    "country": "US",
+    "city": "yonkers"
+  },
+  {
+    "country": "US",
+    "city": "worcester"
+  },
+  {
+    "country": "US",
+    "city": "aurora"
+  },
+  {
+    "country": "US",
+    "city": "panorama_city"
+  },
+  {
+    "country": "US",
+    "city": "salt_lake_city"
+  },
+  {
+    "country": "US",
+    "city": "south_richmond_hill"
+  },
+  {
+    "country": "US",
+    "city": "san_bernardino"
+  },
+  {
+    "country": "US",
+    "city": "auburn"
+  },
+  {
+    "country": "US",
+    "city": "colorado_springs"
+  },
+  {
+    "country": "US",
+    "city": "houma"
+  },
+  {
+    "country": "US",
+    "city": "chula_vista"
+  },
+  {
+    "country": "US",
+    "city": "macon"
+  },
+  {
+    "country": "US",
+    "city": "clifton"
+  },
+  {
+    "country": "US",
+    "city": "baton_rouge"
+  },
+  {
+    "country": "US",
+    "city": "watertown"
+  },
+  {
+    "country": "US",
+    "city": "homestead"
+  },
+  {
+    "country": "US",
+    "city": "greenwood"
+  },
+  {
+    "country": "US",
+    "city": "akron"
+  },
+  {
+    "country": "US",
+    "city": "greenville"
+  },
+  {
+    "country": "US",
+    "city": "zanesville"
+  },
+  {
+    "country": "US",
+    "city": "providence"
+  },
+  {
+    "country": "US",
+    "city": "paterson"
+  },
+  {
+    "country": "US",
+    "city": "marion"
+  },
+  {
+    "country": "US",
+    "city": "jersey_city"
+  },
+  {
+    "country": "US",
+    "city": "spartanburg"
+  },
+  {
+    "country": "US",
+    "city": "lake_worth"
+  },
+  {
+    "country": "US",
+    "city": "youngstown"
+  },
+  {
+    "country": "US",
+    "city": "astoria"
+  },
+  {
+    "country": "US",
+    "city": "victorville"
+  },
+  {
+    "country": "US",
+    "city": "hollywood"
+  },
+  {
+    "country": "US",
+    "city": "canton"
+  },
+  {
+    "country": "US",
+    "city": "erie"
+  },
+  {
+    "country": "US",
+    "city": "durham"
+  },
+  {
+    "country": "US",
+    "city": "winter_haven"
+  },
+  {
+    "country": "US",
+    "city": "toledo"
+  },
+  {
+    "country": "US",
+    "city": "high_point"
+  },
+  {
+    "country": "US",
+    "city": "boynton_beach"
+  },
+  {
+    "country": "US",
+    "city": "mesa"
+  },
+  {
+    "country": "US",
+    "city": "decatur"
+  },
+  {
+    "country": "US",
+    "city": "raleigh"
+  },
+  {
+    "country": "US",
+    "city": "stockton"
+  },
+  {
+    "country": "US",
+    "city": "waco"
+  },
+  {
+    "country": "US",
+    "city": "arlington"
+  },
+  {
+    "country": "US",
+    "city": "oklahoma_city"
+  },
+  {
+    "country": "US",
+    "city": "rockford"
+  },
+  {
+    "country": "US",
+    "city": "corona"
+  },
+  {
+    "country": "US",
+    "city": "medford"
+  },
+  {
+    "country": "US",
+    "city": "sumter"
+  },
+  {
+    "country": "US",
+    "city": "danville"
+  },
+  {
+    "country": "US",
+    "city": "largo"
+  },
+  {
+    "country": "US",
+    "city": "fremont"
+  },
+  {
+    "country": "US",
+    "city": "new_orleans"
+  },
+  {
+    "country": "US",
+    "city": "freeport"
+  },
+  {
+    "country": "US",
+    "city": "terre_haute"
+  },
+  {
+    "country": "US",
+    "city": "garden_grove"
+  },
+  {
+    "country": "US",
+    "city": "greensboro"
+  },
+  {
+    "country": "US",
+    "city": "jamaica_plain"
+  },
+  {
+    "country": "US",
+    "city": "hemet"
+  },
+  {
+    "country": "US",
+    "city": "port_orange"
+  },
+  {
+    "country": "US",
+    "city": "cheyenne"
+  },
+  {
+    "country": "UY",
+    "city": "montevideo"
+  },
+  {
+    "country": "UY",
+    "city": "carmelo"
+  },
+  {
+    "country": "UY",
+    "city": "err"
+  },
+  {
+    "country": "UY",
+    "city": "maldonado"
+  },
+  {
+    "country": "UZ",
+    "city": "tashkent"
+  },
+  {
+    "country": "VE",
+    "city": "caracas"
+  },
+  {
+    "country": "VE",
+    "city": "valencia"
+  },
+  {
+    "country": "VE",
+    "city": "maracay"
+  },
+  {
+    "country": "VE",
+    "city": "puerto_ordaz_and_san_felix"
+  },
+  {
+    "country": "VE",
+    "city": "barquisimeto"
+  },
+  {
+    "country": "VE",
+    "city": "altagracia"
+  },
+  {
+    "country": "VE",
+    "city": "agua_fria"
+  },
+  {
+    "country": "VE",
+    "city": "bergantin"
+  },
+  {
+    "country": "VE",
+    "city": "maracaibo"
+  },
+  {
+    "country": "VE",
+    "city": "mérida"
+  },
+  {
+    "country": "VE",
+    "city": "err"
+  },
+  {
+    "country": "VE",
+    "city": "alto_de_los_godos"
+  },
+  {
+    "country": "VE",
+    "city": "porlamar"
+  },
+  {
+    "country": "VE",
+    "city": "agua_salada"
+  },
+  {
+    "country": "VE",
+    "city": "san_cristóbal"
+  },
+  {
+    "country": "VE",
+    "city": "barinas"
+  },
+  {
+    "country": "VE",
+    "city": "guarenas"
+  },
+  {
+    "country": "VE",
+    "city": "cagua"
+  },
+  {
+    "country": "VE",
+    "city": "trujillo"
+  },
+  {
+    "country": "VE",
+    "city": "araguita"
+  },
+  {
+    "country": "VE",
+    "city": "charallave"
+  },
+  {
+    "country": "VE",
+    "city": "bachaquero"
+  },
+  {
+    "country": "VE",
+    "city": "la_victoria"
+  },
+  {
+    "country": "VE",
+    "city": "ambrosio"
+  },
+  {
+    "country": "VN",
+    "city": "ho_chi_minh_city"
+  },
+  {
+    "country": "VN",
+    "city": "hanoi"
+  },
+  {
+    "country": "VN",
+    "city": "err"
+  },
+  {
+    "country": "VN",
+    "city": "can_tho"
+  },
+  {
+    "country": "VN",
+    "city": "bến_tre"
+  },
+  {
+    "country": "VN",
+    "city": "bien_hoa"
+  },
+  {
+    "country": "VN",
+    "city": "soc_trang"
+  },
+  {
+    "country": "VN",
+    "city": "bac_lieu"
+  },
+  {
+    "country": "VN",
+    "city": "da_nang"
+  },
+  {
+    "country": "VN",
+    "city": "vũng_tàu"
+  },
+  {
+    "country": "VN",
+    "city": "nha_trang"
+  },
+  {
+    "country": "VN",
+    "city": "cao_lanh"
+  },
+  {
+    "country": "VN",
+    "city": "tay_ninh"
+  },
+  {
+    "country": "VN",
+    "city": "long_xuyen"
+  },
+  {
+    "country": "VN",
+    "city": "vinh_long"
+  },
+  {
+    "country": "VN",
+    "city": "tra_vinh"
+  },
+  {
+    "country": "VN",
+    "city": "nam_định"
+  },
+  {
+    "country": "VN",
+    "city": "thuan_an"
+  },
+  {
+    "country": "VN",
+    "city": "phan_thiết"
+  },
+  {
+    "country": "VN",
+    "city": "ca_mau"
+  },
+  {
+    "country": "VN",
+    "city": "haiphong"
+  },
+  {
+    "country": "VN",
+    "city": "thai_nguyen"
+  },
+  {
+    "country": "VN",
+    "city": "hai_duong"
+  },
+  {
+    "country": "VN",
+    "city": "long_an"
+  },
+  {
+    "country": "VN",
+    "city": "binh_phuoc"
+  },
+  {
+    "country": "VN",
+    "city": "pleiku"
+  },
+  {
+    "country": "VN",
+    "city": "thai_binh"
+  },
+  {
+    "country": "VN",
+    "city": "phu_quoc"
+  },
+  {
+    "country": "VN",
+    "city": "thanh_hóa"
+  },
+  {
+    "country": "VN",
+    "city": "buon_ma_thuot"
+  },
+  {
+    "country": "VN",
+    "city": "huế"
+  },
+  {
+    "country": "VN",
+    "city": "qui_nhon"
+  },
+  {
+    "country": "VN",
+    "city": "bac_ninh"
+  },
+  {
+    "country": "VN",
+    "city": "quảng_ngãi"
+  },
+  {
+    "country": "VN",
+    "city": "hoa_binh"
+  },
+  {
+    "country": "VN",
+    "city": "tien_giang"
+  },
+  {
+    "country": "VN",
+    "city": "viet_tri"
+  },
+  {
+    "country": "VN",
+    "city": "phan_rang"
+  },
+  {
+    "country": "VN",
+    "city": "lang_son"
+  },
+  {
+    "country": "VN",
+    "city": "da_lat"
+  },
+  {
+    "country": "XX",
+    "city": "err"
+  },
+  {
+    "country": "YE",
+    "city": "err"
+  },
+  {
+    "country": "ZA",
+    "city": "johannesburg"
+  },
+  {
+    "country": "ZA",
+    "city": "cape_town"
+  },
+  {
+    "country": "ZA",
+    "city": "pretoria"
+  },
+  {
+    "country": "ZA",
+    "city": "durban"
+  },
+  {
+    "country": "ZA",
+    "city": "port_elizabeth"
+  },
+  {
+    "country": "ZM",
+    "city": "lusaka"
+  },
+  {
+    "country": "ZW",
+    "city": "harare"
+  }
+]
