@@ -75,7 +75,7 @@ module.exports = {
               value: `${trafficLimit}GB`
           }],
           author: {
-              name: "yousef#9141"
+              name: `${message.author.tag}`
           },
           thumbnail: {
               url: "https://cdn.discordapp.com/attachments/808129576101609512/809600695321100308/Alien_Logo.png"

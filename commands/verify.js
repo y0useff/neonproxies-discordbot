@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const auth = require('../grabTokenUserID')
-const { apiUrl, shopifyUrl, XShopifyAccessToken, test } = require('../config.json')
+const { apiUrl, shopifyUrl, XShopifyAccessToken } = require('../config.json')
 const request = require('request-promise');
 module.exports = {
   name: "verify",
@@ -41,7 +41,7 @@ module.exports = {
     const subUserId = grabSubUserID(users)
     const currentTrafficLimit = grabCurrentTrafficLimit(users)
 
-    if (subUserId == undefined) return message.channel.send("User not found! If you have not yet signed up, sign up using ```!signup <username> <password>```")
+    if (subUserId == undefined) return message.channel.send("User not found! If you have not yet signed up, sign up using ```!signup <password>```")
 
     //use shopify api
     //check if order exists, and is for proper product
@@ -84,10 +84,10 @@ module.exports = {
     if (productPurchased.length != 1) return message.channel.send("Error! Either zero or multiple items found in cart. Please contact staff.")
     
     //add future products to check 
-    if (productPurchased[0].product_id != test) return message.channel.send("Invalid product. Contact a staff member.") 
+    if (productPurchased[0].product_id != 6196658700464) return message.channel.send("Invalid product. Contact a staff member.") 
 
-    const quantityPurchased = productPurchased[0].quantity
-    
+    console.log(productPurchased[0].variant_title.split("GB")[0])
+    const quantityPurchased = productPurchased[0].quantity * productPurchased[0].variant_title.split("GB")[0]
     request({
       method: "PATCH",
       uri: `${apiUrl}/users/${(await auth()).user_id}/sub-users/${subUserId}`,

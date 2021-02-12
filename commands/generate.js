@@ -65,7 +65,7 @@ module.exports = {
     let entry = `customer-${message.author.id}`
     //!generate <password you signed up with using !signup> <type: static | rotating> <quantity> <country/city> <optional: state> 
 
-    if (args.length < 4  || args.length > 5) return message.channel.send("Invalid syntax! Here is the following usage for the command: ```!generate <password you signed up with using !signup> <type: sticky | rotating> <quantity> <country | city> <optional: state>```")
+    if (args.length < 4  || args.length > 5) return message.channel.send("Invalid syntax! Here is the following usage for the command: ```!generate <password you signed up with using !signup> <type: static | rotating> <quantity> <country | city> <optional: state>```")
     
     const password = args[0]
     const type = args[1]
@@ -113,7 +113,7 @@ module.exports = {
 
     function createPoolProxy(parameters){
         if (parameters == undefined ) return
-        if (countryOrCity == "us") return `us-pr.oxylabs.io:${Math.floor(Math.random() * (19999 - 10001) + 10001)}:${parameters}` 
+        if (countryOrCity == "us" || countryOrCity == "US") return `us-pr.oxylabs.io:${Math.floor(Math.random() * (19999 - 10001) + 10001)}:${parameters}` 
         return `pr.oxylabs.io:${Math.floor(Math.random() * (49999 - 10000) + 10000)}:${parameters}`
     }
 

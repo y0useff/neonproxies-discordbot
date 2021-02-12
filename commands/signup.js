@@ -16,11 +16,11 @@ module.exports = {
     const res = request({
         method: "POST",
         resolveWithFullResponse: true,
-        url: `${apiUrl}/users/${(await auth).user_id}/sub-users`,
+        url: `${apiUrl}/users/${(await auth()).user_id}/sub-users`,
         headers: {
             'accept': 'application/json',
             'Content-Type': 'application/x-www-form-urlencoded',
-            'Authorization': `Bearer ${(await auth).token}`,
+            'Authorization': `Bearer ${(await auth()).token}`,
         },
         body: JSON.stringify({
             username: message.author.id,
