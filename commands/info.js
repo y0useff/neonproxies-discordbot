@@ -22,7 +22,7 @@ module.exports = {
     })
     function grabTrafficUsed(users){
       for (let user of users) {
-        if (user.username === username) {
+        if (user.username === username || user.username === oldUser) {
           return user.traffic 
         }
       }
@@ -30,13 +30,13 @@ module.exports = {
 
     function grabTrafficLimit(users){
       for (let user of users) {
-        if (user.username === username) {
+        if (user.username === username || user.username === oldUser) {
           return user.traffic_limit
         }
       }
     }
-
-    const username = message.author.id
+    const oldUser = message.author.id
+    const username = message.author.discriminator + message.author.id
     //grabs all users, parses to js object
     const users = JSON.parse(res)
     

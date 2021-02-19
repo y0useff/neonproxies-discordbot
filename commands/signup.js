@@ -12,7 +12,7 @@ module.exports = {
     //!verify (ordernumber)
     // if (admins.includes(message.author.id) == false) return message.channel.send("not an authorized user.");
     if (args.length != 1) return message.channel.send("Invalid Arguments. Syntax should be ```!signup <password>``` Make sure you save your password!")
-
+    console.log(message.author.discriminator + message.author.id)
     const res = request({
         method: "POST",
         resolveWithFullResponse: true,
@@ -23,11 +23,12 @@ module.exports = {
             'Authorization': `Bearer ${(await auth()).token}`,
         },
         body: JSON.stringify({
-            username: message.author.id,
+            username: message.author.discriminator + message.author.id,
             password: args[0],
             traffic_limit: 0,
             lifetime: true,
-            auto_disable: true
+            auto_disable: true,
+            status: "disabled"
         })      
     }).catch(err => console.log(err))
     console.log(res);

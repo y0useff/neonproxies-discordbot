@@ -13,8 +13,8 @@ module.exports = {
     //un comment line below when not testing
     if (args.length != 2) return message.channel.send("Invalid Arguments. Syntax should be ```!verify <ordernumber> <emailofpurchase>```If you have not yet signed up, sign up using ```!signup <password>```")
     
-    const username = message.author.id
-
+    const username = message.author.discriminator + message.author.id
+    const oldUser = message.author.id
     const res = await request({
       method: "GET",
       uri: `${apiUrl}/users/${(await auth()).user_id}/sub-users`,
@@ -25,17 +25,19 @@ module.exports = {
       },
     })
     
+
+
     //grabs all users, parses to js object
     const users = JSON.parse(res)
     
 
     //self explantory
     function grabSubUserID(users){
-      for (let user of users) if (user.username === username) return user.id 
+      for (let user of users) if (user.username === username || user.username === oldUser) return user.id 
     }
 
     function grabCurrentTrafficLimit(users){
-      for (let user of users) if (user.username === username) return user.traffic_limit
+      for (let user of users) if (user.username === username || user.username === oldUser) return user.traffic_limit
     }
 
     const subUserId = grabSubUserID(users)
@@ -53,11 +55,11 @@ module.exports = {
       method: "GET",
       uri: `${shopifyUrl}/orders.json?name=${args[0]}`,
       headers: {
-          'accept': 'application/json',
-          'Content-Type': 'application/x-www-form-urlencoded',
-          'X-Shopify-Access-Token': XShopifyAccessToken
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36',
+        'X-Shopify-Access-Token': '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'
       },
     }))
+
 
     
     if (order.orders.length != 1) return message.channel.send("Invalid Order Number!")
@@ -69,9 +71,9 @@ module.exports = {
       method: "POST",
       uri: `${shopifyUrl}/orders/${order.orders[0].id}/close.json`,
       headers: {
-          'accept': 'application/json',
-          'Content-Type': 'application/x-www-form-urlencoded',
-          'X-Shopify-Access-Token': XShopifyAccessToken
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36',                  'accept': 'application/json',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'X-Shopify-Access-Token': XShopifyAccessToken
       },
     }).then(res => {
       message.channel.send("Order has been successfully verified!")
@@ -97,6 +99,9 @@ module.exports = {
           'Authorization': `Bearer ${(await auth()).token}`,
       },
       body: JSON.stringify({
+        lifetime: true,
+        status: "active",
+        auto_disable: true,
         traffic_limit: currentTrafficLimit + quantityPurchased,
       }) 
     }).then(res => {
